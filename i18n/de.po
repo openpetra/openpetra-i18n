@@ -8,26 +8,25 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2014-07-22 12:27+0200\n"
-"PO-Revision-Date: 2014-05-27 00:55+0000\n"
-"Last-Translator: Tobias Bannert <Unknown>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2015-02-17 13:28+0200\n"
+"Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
+"Language-Team: German "
+"<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
+"Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 2.1\n"
 "X-Launchpad-Export-Date: 2014-07-23 06:01+0000\n"
-"X-Generator: Launchpad (build 17114)\n"
-"Language: de\n"
 
 #: csharp\ICT\Common\Controls\lstFolderNavigation.cs:493
 msgid "Ledger Change"
-msgstr ""
+msgstr "Wechsel des Hauptbuchs"
 
 #: csharp\ICT\Common\Controls\lstTasks.cs:419
 msgid "Sorry, you don't have enough permissions to do this"
-msgstr ""
-"Entschuldigung, leider haben Sie nicht genügend Rechte für die gewünschte "
-"Aktion."
+msgstr "Leider haben Sie nicht genügend Rechte für die gewünschte Aktion"
 
 #: csharp\ICT\Common\Controls\pnlCollapsible.cs:506 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Navigation Bar"
@@ -42,6 +41,8 @@ msgid ""
 "The value entered{0}{1}{2}exceeds the valid value range, i.e. is either too "
 "large or too small.{3}Please enter a value that is valid."
 msgstr ""
+"Der eingegebene Wert{0}{1}{2}ist ausserhalb des Gültigkeitsbereichs, d.h. "
+"entweder zu groß oder zu klein.{3}Bitte einen gültigen Wert eingeben."
 
 #: csharp\ICT\Common\Controls\txtNumericTextBox.cs:1233
 msgid "Value Out of Range"
@@ -70,10 +71,10 @@ msgid ""
 "exchange month and day for you to make a valid date - please check that the "
 "corrected date is the date you intended to enter!"
 msgstr ""
-"Das eingegebene Datum ist ungültig - der Monat ist größer als 12.\r\n"
-"Es schein, als ob sie versehentlich Monat und Tag vertauscht hätten. "
-"OpenPetra wird Monat und Tag für sie tauschen, um das Datum zu berichtigen - "
-"bitte prüfen sie, ob das korriegierte Datum ihren gewünschten Eingaben "
+"Das eingegebene Datum ist ungültig - der Monat ist größer als 12.\n"
+"Es scheint, als ob Sie versehentlich Monat und Tag vertauscht hätten. "
+"OpenPetra wird Monat und Tag für Sie tauschen, um das Datum zu berichtigen - "
+"bitte prüfen Sie, ob das korrigierte Datum Ihren gewünschten Eingaben "
 "entspricht."
 
 #: csharp\ICT\Common\Conversion\Date.cs:47 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
@@ -85,6 +86,8 @@ msgid ""
 "{0}\r\n"
 "    cannot be deleted because\r\n"
 msgstr ""
+"{0}\n"
+"    kann nicht gelöscht werden weil\n"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2362
 msgid ""
@@ -92,18 +95,21 @@ msgid ""
 "    {0} from the '{1}' Table:\r\n"
 "{2}"
 msgstr ""
+"\n"
+"    {0} aus der '{1}' Tabelle:\n"
+"{2}"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2366
 msgid " and\r\n"
-msgstr ""
+msgstr " und\n"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2401 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "indirectly"
-msgstr ""
+msgstr "indirekt"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2401 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "still"
-msgstr ""
+msgstr "immer noch"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2433
 msgid ""
