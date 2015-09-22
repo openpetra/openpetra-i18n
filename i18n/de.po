@@ -442,7 +442,7 @@ msgstr ""
 
 #: csharp/ICT/Common/Verification/DateChecks.cs:72
 msgid "{0} is not a sensible value in this case."
-msgstr ""
+msgstr "{0} macht in diesem Fall keinen Sinn."
 
 #: csharp/ICT/Common/Verification/DateChecks.cs:197
 msgid "The first day of the period should be either 1 or {0}."
