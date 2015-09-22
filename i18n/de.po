@@ -255,7 +255,7 @@ msgstr "OK"
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "Date format"
-msgstr ""
+msgstr "Datumsformat"
 
 #: csharp/ICT/Common/IO/SelectCSVSeparator.cs:134 (first of several
 #: occurrences - the whole list can be found in
