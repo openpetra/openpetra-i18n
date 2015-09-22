@@ -514,7 +514,7 @@ msgstr "{0} kann nicht größer als {1} sein."
 
 #: csharp/ICT/Common/Verification/NumericalChecks.cs:42
 msgid "{0} must be a number without a decimal point."
-msgstr ""
+msgstr "{0} muss eine Zahl ohne Dezimalstellen sein."
 
 #: csharp/ICT/Common/Verification/NumericalChecks.cs:43
 msgid "{0} must be a number with a decimal point."
