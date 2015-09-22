@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-22 18:38+0200\n"
-"PO-Revision-Date: 2015-09-22 22:43+0200\n"
+"PO-Revision-Date: 2015-09-22 22:44+0200\n"
 "Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
 "Language-Team: German "
 "<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
@@ -450,7 +450,7 @@ msgstr ""
 
 #: csharp/ICT/Common/Verification/DateChecks.cs:769
 msgid "{0} must be a valid time."
-msgstr ""
+msgstr "{0} muss eine gültige Zeit sein."
 
 #: csharp/ICT/Common/Verification/GeneralChecks.cs:41 (first of several
 #: occurrences - the whole list can be found in
