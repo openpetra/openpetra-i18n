@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-22 18:38+0200\n"
-"PO-Revision-Date: 2015-09-22 22:39+0200\n"
+"PO-Revision-Date: 2015-09-22 22:40+0200\n"
 "Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
 "Language-Team: German "
 "<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
@@ -159,7 +159,7 @@ msgstr ""
 
 #: csharp/ICT/Common/Data/TypedDataAccess.cs:2494
 msgid "Referencing record"
-msgstr ""
+msgstr "Referenzierender Datensatz"
 
 #: csharp/ICT/Common/Data/TypedDataAccess.cs:2494
 msgid "One of the referencing records"
