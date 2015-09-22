@@ -472,7 +472,7 @@ msgstr "Sie haben einen nicht existierenden Wert ausgewählt."
 
 #: csharp/ICT/Common/Verification/GuiChecks.cs:162
 msgid "Duplicate record"
-msgstr ""
+msgstr "Doppelter Eintrag"
 
 #: csharp/ICT/Common/Verification/Helper.cs:68 (first of several occurrences -
 #: the whole list can be found in i8n/template.pot.withallsources)
