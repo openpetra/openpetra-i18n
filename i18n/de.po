@@ -410,7 +410,7 @@ msgstr "{0} darf kein Datum in der Zukunft sein."
 
 #: csharp/ICT/Common/Verification/DateChecks.cs:64
 msgid "{0} must not be later than the first day of the month."
-msgstr ""
+msgstr "{0} darf nicht nach dem ersten Tag des Monats sein."
 
 #: csharp/ICT/Common/Verification/DateChecks.cs:65
 msgid "{0} cannot be later then {1}."
