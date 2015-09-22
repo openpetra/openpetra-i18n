@@ -163,7 +163,7 @@ msgstr "Referenzierender Datensatz"
 
 #: csharp/ICT/Common/Data/TypedDataAccess.cs:2494
 msgid "One of the referencing records"
-msgstr ""
+msgstr "Einer der referenzierenden Datensätze"
 
 #: csharp/ICT/Common/IO/Csv2Xml.cs:479
 msgid "Cannot open CSV file, because it is missing the header line."
