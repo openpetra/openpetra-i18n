@@ -231,7 +231,7 @@ msgstr "Tabulator"
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "Other Separator"
-msgstr ""
+msgstr "Anderer Trenner"
 
 #: csharp/ICT/Common/IO/SelectCSVSeparator.cs:130 (first of several
 #: occurrences - the whole list can be found in
