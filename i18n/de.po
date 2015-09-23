@@ -8,8 +8,8 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-22 18:38+0200\n"
-"PO-Revision-Date: 2015-09-22 22:45+0200\n"
-"Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
+"PO-Revision-Date: 2015-09-23 14:42+0200\n"
+"Last-Translator: Timotheus Pokorra <timotheus.pokorra@gmail.com>\n"
 "Language-Team: German "
 "<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
 "Language: de\n"
@@ -509,9 +509,8 @@ msgid "Inner Exception"
 msgstr "Inner Exception"
 
 #: csharp/ICT/Common/Verification/NumericalChecks.cs:41
-#, fuzzy
 msgid "{0} must be a number greater than 0."
-msgstr "{0} kann nicht größer als {1} sein."
+msgstr "{0} muss eine Zahl größer als 0 sein."
 
 #: csharp/ICT/Common/Verification/NumericalChecks.cs:42
 msgid "{0} must be a number without a decimal point."
@@ -912,14 +911,12 @@ msgid "Your old password"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:73
-#, fuzzy
 msgid "The new password"
-msgstr "Passwort ändern"
+msgstr "Das neue Passwort"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:74
-#, fuzzy
 msgid "Repeat the new password"
-msgstr "Bericht erzeugen"
+msgstr "Passwort nochmal eingeben"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:75
 msgid "New Password"
@@ -976,9 +973,8 @@ msgid "Filter"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/CommonDialogs/KeyboardShortcutsDialog-generated.cs:75
-#, fuzzy
 msgid "Partner Edit Contact Details Tab"
-msgstr "Bericht über Partnerkontakte"
+msgstr "Seite für Bearbeiten der Kontaktdaten des Partners"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/KeyboardShortcutsDialog-generated.cs:76
 msgid "Help with Keyboard Shortcuts"
@@ -1101,9 +1097,8 @@ msgid "Filter and Find"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/CommonDialogs/KeyboardShortcutsDialog.ManualCode.cs:174
-#, fuzzy
 msgid "Partner Edit / Contact Details Tab"
-msgstr "Bericht über Partnerkontakte"
+msgstr "Partner Bearbeiten / Seite mit Kontaktdetails"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/KeyboardShortcutsDialog.ManualCode.cs:268
 msgid ""
@@ -1123,9 +1118,8 @@ msgid "For details see the log file"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:72
-#, fuzzy
 msgid "Login failed!"
-msgstr "Buchung fehlgeschlagen"
+msgstr "Konnte nicht Anmelden!"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:112 (first of several
 #: occurrences - the whole list can be found in
@@ -1265,7 +1259,6 @@ msgid "Status"
 msgstr "Status"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/StatusDialog-generated.cs:73
-#, fuzzy
 msgid "Please Wait ..."
 msgstr "Bitte warten."
 
@@ -1288,9 +1281,8 @@ msgstr ""
 #: csharp/ICT/Petra/Client/CommonForms/DeleteGridRows.cs:488 (first of several
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Saving of Data Required"
-msgstr "Speichert in die Datenbank"
+msgstr "Daten müssen gespeichert werden"
 
 #: csharp/ICT/Petra/Client/CommonForms/ExtendedMessageBox-generated.cs:68
 msgid "&Yes"
@@ -1353,15 +1345,13 @@ msgstr ""
 
 #. /
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:62
-#, fuzzy
 msgid "There is 1 record that needs to be saved."
-msgstr "Es gibt nichts zu speichern."
+msgstr "Ein Datensatz muss gespeichert werden."
 
 #. /
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:65
-#, fuzzy
 msgid "There are {0} records that need to be saved."
-msgstr "Es gab nichts zu speichern."
+msgstr "Es müssen {0} Datensätze gespeichert werden."
 
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:69
 msgid ""
@@ -1376,17 +1366,14 @@ msgstr ""
 
 #. /
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:75
-#, fuzzy
 msgid "The following tables have data that needs to be saved:"
-msgstr "Dieses Fenster enthät ungesicherte Änderungen."
+msgstr ""
+"Die folgenden Tabellen enthalten Datensätze die gespeichert werden müssen:"
 
 #. /
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:78
-#, fuzzy
 msgid "{0}   {1} {2} in the '{3}' table."
-msgstr ""
-"    {0} aus der '{1}' Tabelle:\n"
-"{2}"
+msgstr "{0}   {1} {2} in der '{3}' Tabelle."
 
 #: csharp/ICT/Petra/Client/CommonForms/PetraEditForm.cs:681 (first of several
 #: occurrences - the whole list can be found in
@@ -2123,7 +2110,7 @@ msgstr "Hilfebeschreibung"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup-generated.cs:157
 msgid "Display"
-msgstr "Display"
+msgstr "anzeigen"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup-generated.cs:183
 msgid "Maintain Local Data Fields"
@@ -2193,9 +2180,8 @@ msgstr "Personal"
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:198
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Number"
-msgstr "Schecknummer"
+msgstr "Nummer"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:199
 #: (first of several occurrences - the whole list can be found in
@@ -2204,9 +2190,8 @@ msgid "Currency"
 msgstr "Währung"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:200
-#, fuzzy
 msgid "Yes/No"
-msgstr "&Ja"
+msgstr "Ja/Nein"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:201
 #: (first of several occurrences - the whole list can be found in
@@ -2221,9 +2206,8 @@ msgid "Time"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:203
-#, fuzzy
 msgid "Option List"
-msgstr "Option"
+msgstr "Optionen"
 
 #: csharp/ICT/Petra/Client/MCommon/Gui/Setup/LocalDataFieldSetup.ManualCode.cs:204
 #: (first of several occurrences - the whole list can be found in
@@ -2690,9 +2674,8 @@ msgid "PLEASE ENTER DESCRIPTION"
 msgstr ""
 
 #: csharp/ICT/Petra/Client/MCommon/logic/Resourcestrings.cs:238
-#, fuzzy
 msgid "Do you want to create a new row anyway?"
-msgstr "Wollen Sie wirklich alle {0} Kontakte löschen?"
+msgstr "Soll trotzdem eine neue Zeile angelegt werden?"
 
 #: csharp/ICT/Petra/Client/MCommon/logic/Resourcestrings.cs:246
 #: csharp/ICT/Petra/Client/MPartner/Gui/Setup/PostcodeRegionSetup.ManualCode.cs:403
@@ -4684,9 +4667,8 @@ msgstr "Exportiere Budget"
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/ExportBudget.ManualCode.cs:189
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Please choose a location for the Export File."
-msgstr "Bitte Daten vor dem Export sichern!"
+msgstr "Bitte bestimmen, wo die Exportdatei gespeichert werden soll."
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/ExportBudget.ManualCode.cs:198
 #: (first of several occurrences - the whole list can be found in
@@ -4923,9 +4905,8 @@ msgid "Budget Details"
 msgstr "Budgedetails"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:150
-#, fuzzy
 msgid "Blank"
-msgstr "Bank"
+msgstr "Leer"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:151
 #: (first of several occurrences - the whole list can be found in
@@ -4970,35 +4951,30 @@ msgstr ""
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:192
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Period 01"
 msgstr "Periode 1"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:193
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Period 02"
 msgstr "Periode 2"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:194
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Period 03"
 msgstr "Periode 3"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:195
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Period 04"
 msgstr "Periode 4"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget-generated.cs:196
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Period 05"
 msgstr "Periode 5"
 
@@ -5047,7 +5023,7 @@ msgstr "Importierte Budget(s) aus csv-Datei"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget.Import.ManualCode.cs:102
 msgid "Budget files (*.csv)|*.csv"
-msgstr "Budget files (*.csv)|*.csv"
+msgstr "Budget Dateien (*.csv)|*.csv"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/Budget/MaintainBudget.Import.ManualCode.cs:120
 #, fuzzy
