@@ -184,8 +184,8 @@ msgid ""
 "Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Petra export (*.ext)|*.ext|"
 "Spreadsheet file (*.csv)|*.csv"
 msgstr ""
-"Textdatei (*.yml)|*.yml|XML-Datei (*.xml)|*.xml|Petra-Export (*.ext)|*.ext|"
-"Tabellenkalkulation-Datei (*.csv)|*.csv"
+"Textdatei (*.yml)|*.yml|XML-Datei (*.xml)|*.xml|Petra-Export (*.ext)|*.ext"
+"|Tabellenkalkulation-Datei (*.csv)|*.csv"
 
 #: csharp/ICT/Common/IO/ImportExportDialogs.cs:172
 msgid "Zipped Text file (*.yml.gz)|*.yml.gz"
@@ -200,8 +200,9 @@ msgid ""
 "Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Spreadsheet file (*.csv)|All "
 "supported file formats (*.yml, *.xml, *.csv)|*.csv;*.yml;*.xml|"
 msgstr ""
-"Textdatei (*.yml)|*.yml|XML Datei (*.xml)|*.xml|Kalkulationstabellendatei(*."
-"csv)|Alle unterstüzten Dateiformate(*.yml, *.xml, *.csv)|*.csv;*.yml;*.xml|"
+"Textdatei (*.yml)|*.yml|XML Datei "
+"(*.xml)|*.xml|Kalkulationstabellendatei(*.csv)|Alle unterstüzten "
+"Dateiformate(*.yml, *.xml, *.csv)|*.csv;*.yml;*.xml|"
 
 #: csharp/ICT/Common/IO/ImportExportDialogs.cs:278
 msgid "File {0} Cannot be opened."
@@ -3513,8 +3514,7 @@ msgstr "Die Gesamtsumme des Wertes dieses Dokuments (Gutschrift oder Rechnung)"
 msgid ""
 "The exchange rate to the base currency at the time that the document was "
 "issued."
-msgstr ""
-"Der Wechselkurs zur lokalen Währung zum Zeitpunkt der Rechnungsstellung"
+msgstr "Der Wechselkurs zur lokalen Währung zum Zeitpunkt der Rechnungsstellung"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/AP/APEditDocument-generated.cs:165
 msgid "A narrative about what this is."
@@ -3778,8 +3778,7 @@ msgstr ""
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/AP/APEditSupplier-generated.cs:121
 msgid "Number of months to display invoices and credit notes"
-msgstr ""
-"Anzahl der Monate, in denen Rechungen und Gutschriften angezeigt werden"
+msgstr "Anzahl der Monate, in denen Rechungen und Gutschriften angezeigt werden"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/AP/APEditSupplier-generated.cs:122
 msgid "Default credit terms to use for invoices from this supplier."
@@ -24990,8 +24989,8 @@ msgstr ""
 "dass Sie auf dieses Verzeichnis zugreifen können\n"
 "{0}\n"
 "Wenn dies der Fall ist und Sie immer nur diese Nachricht bekommen,\n"
-"können Sie eine IP Adresse anstatt eines Hostnamens für den Server "
-"benutzen.\n"
+"können Sie eine IP Adresse anstatt eines Hostnamens für den Server benutzen."
+"\n"
 "Kontaktieren Sie bitte Ihren lokalen Systemadministrator."
 
 #: csharp/ICT/Petra/Client/app/MainWindow/PetraClientMain.cs:224
