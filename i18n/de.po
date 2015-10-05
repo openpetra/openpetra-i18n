@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-22 18:38+0200\n"
-"PO-Revision-Date: 2015-09-24 22:12+0200\n"
+"PO-Revision-Date: 2015-10-05 08:52+0200\n"
 "Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
 "Language-Team: German "
 "<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
@@ -1131,7 +1131,7 @@ msgstr ""
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "&Password"
-msgstr ""
+msgstr "&Passwort"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:114 (first of several
 #: occurrences - the whole list can be found in
@@ -5834,9 +5834,8 @@ msgstr ""
 #: csharp/ICT/Petra/Client/MFinance/Gui/GL/GLTransactionFind.ManualCode.cs:465
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
-#, fuzzy
 msgid "Confidential"
-msgstr "Vertraulich?"
+msgstr "Vertraulich"
 
 #: csharp/ICT/Petra/Client/MFinance/Gui/GL/GLTransactionFind.ManualCode.cs:483
 #, fuzzy
@@ -23601,7 +23600,7 @@ msgstr ""
 #: of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "Password"
-msgstr ""
+msgstr "Passwort"
 
 #: csharp/ICT/Petra/Client/MSysMan/Gui/MaintainUsers-generated.cs:102 (first
 #: of several occurrences - the whole list can be found in
