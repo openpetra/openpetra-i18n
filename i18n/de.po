@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2015-09-22 18:38+0200\n"
-"PO-Revision-Date: 2015-10-05 08:52+0200\n"
+"PO-Revision-Date: 2015-10-09 08:18+0200\n"
 "Last-Translator: Timotheus Pokorra <timotheus.pokorra@solidcharity.com>\n"
 "Language-Team: German "
 "<http://weblate.openpetra.org/projects/openpetra/openpetra/de/>\n"
@@ -904,7 +904,7 @@ msgstr "Hilfe"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:71
 msgid "You need to change your password immediately"
-msgstr ""
+msgstr "Bitte das Passwort sofort ändern"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:72
 msgid "Your old password"
@@ -920,7 +920,7 @@ msgstr "Passwort nochmal eingeben"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword-generated.cs:75
 msgid "New Password"
-msgstr ""
+msgstr "Neues Passwort"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword.ManualCode.cs:83
 msgid "Passwords do not match! Please try again..."
@@ -931,6 +931,8 @@ msgid ""
 "Password not changed as the old password was reused. Please use a new "
 "password."
 msgstr ""
+"Passwort wurde nicht geändert, weil das alte Passwort wieder eingegeben "
+"wurde. Bitte ein neues Passwort wählen."
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword.ManualCode.cs:100
 #: (first of several occurrences - the whole list can be found in
@@ -942,7 +944,7 @@ msgstr ""
 #: (first of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "Password was successfully set for user {0}"
-msgstr ""
+msgstr "Passwort wurde erfolgreich für Benutzer {0} geändert"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/ChangePassword.ManualCode.cs:117
 #: (first of several occurrences - the whole list can be found in
@@ -1125,7 +1127,7 @@ msgstr "Konnte nicht Anmelden!"
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "&User ID"
-msgstr ""
+msgstr "&Benutzername"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:113 (first of several
 #: occurrences - the whole list can be found in
@@ -1149,13 +1151,13 @@ msgstr ""
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "&Remember the User ID"
-msgstr ""
+msgstr "Den Benutze&rnamen merken"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:117 (first of several
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "Initial Login: demo/demo or sysadmin/CHANGEME"
-msgstr "Erster Login: demo/demo or sysadmin/CHANGEME"
+msgstr "Erster Login: demo/demo oder sysadmin/CHANGEME"
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:118 (first of several
 #: occurrences - the whole list can be found in
@@ -1175,7 +1177,7 @@ msgstr ""
 #: occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "You need to change your password immediately."
-msgstr ""
+msgstr "Bitte das Passwort sofort ändern."
 
 #: csharp/ICT/Petra/Client/CommonDialogs/LoginDialog.cs:376
 msgid "OpenPetra Client/Server Program Version Mismatch!"
@@ -16403,7 +16405,7 @@ msgstr ""
 #: several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "User ID"
-msgstr ""
+msgstr "Benutzername"
 
 #: csharp/ICT/Petra/Client/MPartner/Gui/UC_Contacts.ManualCode.cs:167
 msgid ""
@@ -23594,7 +23596,7 @@ msgstr ""
 #: of several occurrences - the whole list can be found in
 #: i8n/template.pot.withallsources)
 msgid "User Id"
-msgstr ""
+msgstr "Benutzername"
 
 #: csharp/ICT/Petra/Client/MSysMan/Gui/MaintainUsers-generated.cs:101 (first
 #: of several occurrences - the whole list can be found in
