@@ -8,23 +8,25 @@ msgstr ""
 "Project-Id-Version: openpetraorg\n"
 "Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
 "POT-Creation-Date: 2014-07-22 12:27+0200\n"
-"PO-Revision-Date: 2013-02-26 10:21+0000\n"
-"Last-Translator: jomammele <Unknown>\n"
-"Language-Team: French <fr@li.org>\n"
+"PO-Revision-Date: 2016-05-10 22:14+0200\n"
+"Last-Translator: Birama Diop <diopbirama@gmail.com>\n"
+"Language-Team: French "
+"<http://weblate.openpetra.org/projects/openpetra/openpetra/fr/>\n"
+"Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 2.4\n"
 "X-Launchpad-Export-Date: 2014-07-23 06:00+0000\n"
-"X-Generator: Launchpad (build 17114)\n"
 
 #: csharp\ICT\Common\Controls\lstFolderNavigation.cs:493
 msgid "Ledger Change"
-msgstr ""
+msgstr "changement du grand livre"
 
 #: csharp\ICT\Common\Controls\lstTasks.cs:419
 msgid "Sorry, you don't have enough permissions to do this"
-msgstr ""
+msgstr "Désolé, vous n'avez pas assez de droits pour effectuer cette action."
 
 #: csharp\ICT\Common\Controls\pnlCollapsible.cs:506 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Navigation Bar"
@@ -32,33 +34,35 @@ msgstr "Barre de navigation"
 
 #: csharp\ICT\Common\Controls\pnlCollapsible.cs:507 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Collapsible Panel"
-msgstr ""
+msgstr "panneau pliable"
 
 #: csharp\ICT\Common\Controls\txtNumericTextBox.cs:1230
 msgid ""
 "The value entered{0}{1}{2}exceeds the valid value range, i.e. is either too "
 "large or too small.{3}Please enter a value that is valid."
 msgstr ""
+"La valeur entrée {0}{1}{2} excède les rangées de valeurs valide, i.e il est "
+"soit trop grand ou trop petit. {3} SVP entrer une valeur valide."
 
 #: csharp\ICT\Common\Controls\txtNumericTextBox.cs:1233
 msgid "Value Out of Range"
-msgstr ""
+msgstr "Valeur hors rangé"
 
 #: csharp\ICT\Common\Controls\txtNumericTextBox.cs:1263
 msgid "The number entered has an invalid number format!"
-msgstr ""
+msgstr "Le nombre entré a un format invalide!"
 
 #: csharp\ICT\Common\Controls\txtNumericTextBox.cs:1263
 msgid "Invalid Number Format"
-msgstr ""
+msgstr "Format nombre invalide"
 
 #: csharp\ICT\Common\Controls\ucoSingleTask.cs:81 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Task Description"
-msgstr ""
+msgstr "Description de tâche"
 
 #: csharp\ICT\Common\Controls\ucoSingleTask.cs:82 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Task Title"
-msgstr ""
+msgstr "Titre de la Tâche"
 
 #: csharp\ICT\Common\Conversion\Date.cs:42 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid ""
@@ -67,16 +71,23 @@ msgid ""
 "exchange month and day for you to make a valid date - please check that the "
 "corrected date is the date you intended to enter!"
 msgstr ""
+"La date entrée n'est pas valide - le mois est supérieur à 12.\n"
+"Il semble que vous avez échangé par inadvertance mois et le jour. OpenPetra "
+"échangera le mois et le jour pour vous permettre d'avoir une date valide - "
+"s'il vous plaît vérifier que la date corrigée est la date que vous aviez "
+"l'intention d'entrer!"
 
 #: csharp\ICT\Common\Conversion\Date.cs:47 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Invalid date - OpenPetra tries correcting"
-msgstr ""
+msgstr "Date non valide - OpenPetra essaie de corriger"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2361
 msgid ""
 "{0}\r\n"
 "    cannot be deleted because\r\n"
 msgstr ""
+"{0}\n"
+"    ne peut  être supprimé parce que\n"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2362
 msgid ""
@@ -84,174 +95,190 @@ msgid ""
 "    {0} from the '{1}' Table:\r\n"
 "{2}"
 msgstr ""
+"\n"
+"    {0} à partir de '{1}' table :\n"
+"{2}"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2366
 msgid " and\r\n"
-msgstr ""
+msgstr " et\n"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2401 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "indirectly"
-msgstr ""
+msgstr "indirectement"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2401 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "still"
-msgstr ""
+msgstr "encore"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2433
 msgid ""
 "{0}{1} More references may exist, but the count was terminated after the "
 "first {2}!"
 msgstr ""
+"{0}{1} Plus de références peuvent exister, mais le nombre a été terminé "
+"après la première {2} !"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2447 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid " code:\r\n"
-msgstr ""
+msgstr " Code :\n"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2464
 msgid "Referencing record"
-msgstr ""
+msgstr "Enregistrement de référence"
 
 #: csharp\ICT\Common\Data\TypedDataAccess.cs:2464
 msgid "One of the referencing records"
-msgstr ""
+msgstr "Une des enregistrements de référence"
 
 #: csharp\ICT\Common\DB\SQLite.cs:440
 msgid ""
 "Unsupported upgrade: Please rename the file {0} so that we can start with a "
 "fresh database!   Please restart the OpenPetra Client after that."
 msgstr ""
+"mise à niveau non pris en charge: S'il vous plaît renommer le fichier {0} "
+"afin que nous puissions commencer avec une nouvelle base de données! S'il "
+"vous plaît redémarrer le client OpenPetra après."
 
 #: csharp\ICT\Common\DB\SQLite.cs:503
 msgid ""
 "Cannot connect to old database (version {0}), there are some missing sql "
 "patch files"
 msgstr ""
+"Vous ne pouvez pas vous connecter à la base de données ancienne (version {0})"
+", il y a des fichiers de patch sql manquantes"
 
 #: csharp\ICT\Common\IO\Csv2Xml.cs:479
 msgid "Cannot open CSV file, because it is missing the header line."
-msgstr ""
+msgstr "Impossible d'ouvrir le fichier CSV, car il manque la ligne d'en-tête."
 
 #: csharp\ICT\Common\IO\Csv2Xml.cs:481
 msgid ""
 "There must be a row with the column captions, at least the first caption "
 "must be in quotes."
 msgstr ""
+"Il doit y avoir une ligne avec les sous-titres de colonne, au moins la "
+"première légende doit être entre guillemets."
 
 #: csharp\ICT\Common\IO\ImportExportDialogs.cs:51 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid ""
 "Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Petra export "
 "(*.ext)|*.ext|Spreadsheet file (*.csv)|*.csv"
 msgstr ""
+"Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Petra export (*.ext)|*.ext|"
+"Spreadsheet file (*.csv)|*.csv"
 
 #: csharp\ICT\Common\IO\ImportExportDialogs.cs:172
 msgid "Zipped Text file (*.yml.gz)|*.yml.gz"
-msgstr ""
+msgstr "Zipped Text file (*.yml.gz)|*.yml.gz"
 
 #: csharp\ICT\Common\IO\ImportExportDialogs.cs:208
 msgid "Zipped Text file (*.yml.gz)|*.yml.gz|Text file (*.yml)|*.yml"
-msgstr ""
+msgstr "Zipped Text file (*.yml.gz)|*.yml.gz|Text file (*.yml)|*.yml"
 
 #: csharp\ICT\Common\IO\ImportExportDialogs.cs:261
 msgid ""
 "Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Spreadsheet file (*.csv)|All "
 "supported file formats (*.yml, *.xml, *.csv)|*.csv;*.yml;*.xml|"
 msgstr ""
+"Text file (*.yml)|*.yml|XML file (*.xml)|*.xml|Spreadsheet file (*.csv)|All "
+"supported file formats (*.yml, *.xml, *.csv)|*.csv;*.yml;*.xml|"
 
 #: csharp\ICT\Common\IO\ImportExportDialogs.cs:278 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "File {0} Cannot be opened."
-msgstr ""
+msgstr "Fichier {0} ne peut pas être ouvert."
 
 #: csharp\ICT\Common\IO\PatchTools.cs:207
 msgid "There is a problem connecting to {0}"
-msgstr ""
+msgstr "Il y a un problème de connexion à {0}"
 
 #: csharp\ICT\Common\IO\PatchTools.cs:209
 msgid "Cannot find patches on server"
-msgstr ""
+msgstr "les correctifs sur le serveur ne peuvent être trouvés"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:127 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Comma"
-msgstr ""
+msgstr "Virgule"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:128 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Tabulator"
-msgstr ""
+msgstr "Tabulatrice"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:129 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Other Separator"
-msgstr ""
+msgstr "Autre séparateur"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:130 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Semicolon"
-msgstr ""
+msgstr "point virgule"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:131 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Cancel"
-msgstr ""
+msgstr "Annuler"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:132 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:133 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Date format"
-msgstr ""
+msgstr "Format de Date"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:134 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Number format"
-msgstr ""
+msgstr "Format de Nombre"
 
 #: csharp\ICT\Common\IO\SelectCSVSeparator.cs:135 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Select CSV Separator"
-msgstr ""
+msgstr "Sélectionnez Separateur CSV"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:75 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Print Document"
-msgstr ""
+msgstr "Imprimer le Document"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:76 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Page Setup"
-msgstr ""
+msgstr "Mise en page"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:77 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Zoom"
-msgstr ""
+msgstr "&Zoom"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:78 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Actual Size"
-msgstr ""
+msgstr "Taille Actuelle"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:79 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Full Page"
-msgstr ""
+msgstr "Page entière"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:80 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Page Width"
-msgstr ""
+msgstr "Largeur de page"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:81 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Two Pages"
-msgstr ""
+msgstr "Deux Pages"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:90 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "First Page"
-msgstr ""
+msgstr "Première page"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:91 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Previous Page"
-msgstr ""
+msgstr "Page précédente"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:92 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Next Page"
-msgstr ""
+msgstr "Page suivante"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:93 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Last Page"
-msgstr ""
+msgstr "Dernière Page"
 
 #: csharp\ICT\Common\Printing\CoolPrintPreviewDialog.cs:95 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Print Preview"
-msgstr ""
+msgstr "Aperçu avant impression"
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:67
 msgid ""
@@ -261,31 +288,40 @@ msgid ""
 "Versions match. You need to install an OpenPetra Client with the correct "
 "Program Version."
 msgstr ""
+"La version du programme de votre client OpenPetra ({0}) ne correspond pas à "
+"la version du programme OpenPetra Server ({1}).\n"
+"Un OpenPetra client ne peut pas se connecter à un serveur OpenPetra sauf si "
+"les versions du programme son conformes. Vous devez installer un client "
+"OpenPetra avec la version de programme correcte ."
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:281
 msgid ""
 "  ID | Client          | Status           | Computer    | IP Address      | "
 "Type"
 msgstr ""
+"  ID | Client          | Statut           | Ordinateur    | Addresse "
+"IP       | Type"
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:284
 msgid ""
 "     | Connected since | Last activity    |             |                 |"
-msgstr ""
+msgstr "     | Connecté depuis | Dernière activité | | |"
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:315
 msgid " * no connected Clients *"
-msgstr ""
+msgstr " * pas de Clients connectés *"
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:319
 msgid " * no disconnected Clients *"
-msgstr ""
+msgstr " * pas de clients déconnectés *"
 
 #: csharp\ICT\Common\Remoting\Server\ClientManager.cs:324
 msgid ""
 "  (Currently connected Clients: {0}; client connections since Server start: "
 "{1})"
 msgstr ""
+"  (Clients connectés actuellement: {0}; les connexions clientes depuis le "
+"démarrage du serveur: {1})"
 
 #: csharp\ICT\Common\Remoting\Server\ClientStillAliveCheck.cs:46
 msgid ""
@@ -293,34 +329,41 @@ msgid ""
 "ago [Format: hh:mm:ss]): ClientStillAliveCheck mechanism found timeout "
 "expired!"
 msgstr ""
+"Le Client n'a pas réussi à se contacter   régulièrement au  serveur "
+"OpenPetra(dernier contact était {0} Il y a [Format: hh: mm: ss]): mécanisme "
+"ClientStillAliveCheck trouvé le délai a expiré!"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:122
 msgid "PETRAServer {0} Build {1}  (OS: {2})"
-msgstr ""
+msgstr "PETRAServer {0} Build {1}  (OS: {2})"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:136
 msgid "PETRAServer is running and listening @ {0}:{1}"
-msgstr ""
+msgstr "PETRAServer est en cours d'exécution et à l'écoute @ {0}: {1}"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:197
 msgid "SERVER STOPPED!"
-msgstr ""
+msgstr "SERVEUR ARRÊTER !"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:260
 msgid "CONTROLLED SHUTDOWN PROCEDURE INITIATED"
-msgstr ""
+msgstr "PROCÉDURE D'ARRÊT CONTRÔLÉ INITIE"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:267
 msgid ""
 "CONTROLLED SHUTDOWN: Notifying all connected Clients ({0} {1}). Please "
 "wait..."
 msgstr ""
+"ARRET CONTRÔLÉ: Notifier tous les clients connectés ({0} {1}). S'il vous "
+"plaît, attendez..."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:286
 msgid ""
 "CONTROLLED SHUTDOWN: There {2} still {0} {1} connected. Waiting for {3} to "
 "disconnect (Waiting {4} more seconds)..."
 msgstr ""
+"ARRÊT CONTRÔLÉ: Il {2} encore {0} {1} connecté. En attente de {3} pour "
+"déconnecter (attente {4} secondes) ..."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:301
 msgid ""
@@ -328,12 +371,17 @@ msgid ""
 "FORCE to force closing of the {1} and shutdown the Server, or anything else "
 "to leave this command."
 msgstr ""
+"ARRÊT CONTRÔLÉ: {0} n'a pas répondu à la demande de déconnexion. Entrez "
+"FORCE pour forcer la fermeture de la {1} et l'arrêt du serveur, ou toute "
+"autre chose à quitter cette commande."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:320
 msgid ""
 "CONTROLLED SHUTDOWN: Forcing all connected Clients ({0} {1}) to close. "
 "Please wait..."
 msgstr ""
+"ARRÊT CONTRÔLÉ: Forcer tous les clients connectés ({0} {1}) pour fermer. "
+"S'il vous plaît, attendez..."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:332
 msgid ""
@@ -341,108 +389,117 @@ msgid ""
 "Clients have got the message that they need to close... ({1} more seconds to "
 "wait)"
 msgstr ""
+"ARRÊT CONTRÔLÉ: Attendre {0} secondes de sorte que le serveur puisse être "
+"sûr que tous les clients ont reçu le message dont ils ont besoin de fermer "
+"... ({1} secondes à attendre)"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:345
 msgid ""
 "CONTROLLED SHUTDOWN: All Clients have disconnected in the meantine, "
 "proceeding with shutdown immediately."
 msgstr ""
+"ARRÊT CONTRÔLÉ: Tous les clients se sont déconnectés dans l'intervalle, "
+"déclenchement de  l'arrêt immédiatement."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:361
 msgid ""
 "CONTROLLED SHUTDOWN: There were no Clients connected, proceeding with "
 "shutdown immediately."
 msgstr ""
+"ARRÊT CONTRÔLÉ: Il n'y avait pas de clients connectés, déclenchement de "
+"l'arrêt immédiatement."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:379
 msgid "SHUTDOWN PROCEDURE INITIATED"
-msgstr ""
+msgstr "PROCÉDURE D'ARRÊT ENGAGÉE"
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:380
 msgid "SHUTDOWN: Executing step 1 of 2..."
-msgstr ""
+msgstr "ARRÊT : Exécution étape 1 sur 2..."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:384
 msgid "SHUTDOWN: Executing step 2 of 2..."
-msgstr ""
+msgstr "ARRÊT : Exécution étape 2 sur 2..."
 
 #: csharp\ICT\Common\Remoting\Server\ServerManagerBase.cs:387
 msgid "SHUTDOWN PROCEDURE FINISHED"
-msgstr ""
+msgstr "PROCÉDURE D'ARRÊT FINI"
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:60
 msgid "{0} must not be empty."
-msgstr ""
+msgstr "{0} ne doit pas être vide."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:61
 msgid "{0} must not be a past date."
-msgstr ""
+msgstr "{0} ne doit pas être une date antérieure."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:62
 msgid "{0} must not be a future date."
-msgstr ""
+msgstr "{0} ne doit pas être une date future."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:64
 msgid "{0} must not be later than the first day of the month."
-msgstr ""
+msgstr "{0} ne doit pas être plus tard le premier jour du mois."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:65
 msgid "{0} cannot be later then {1}."
-msgstr ""
+msgstr "{0} ne peut pas être postérieure à {1}."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:66
 msgid "{0} cannot be later than or equal to {1}."
-msgstr ""
+msgstr "{0} ne peut pas être postérieure ou égale à {1}."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:67
 msgid "{0} cannot be earlier than {1}."
-msgstr ""
+msgstr "{0} ne peut pas être antérieure à {1}."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:68
 msgid "{0} cannot be earlier than or equal to {1}."
-msgstr ""
+msgstr "{0} ne peut pas être antérieure ou égale à {1}."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:69
 msgid "{0} must be a date."
-msgstr ""
+msgstr "{0} doit être une date."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:71
 msgid ""
 "{0} is not allowed as it does not lie within the required date range. It "
 "must lie between {1} and {2}."
 msgstr ""
+"{0} n'est pas autorisé car il ne se trouve pas dans la plage de date "
+"requise. Il doit être compris entre {1} et {2}."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:72
 msgid "{0} is not a sensible value in this case."
-msgstr ""
+msgstr "{0} n'est pas une valeur raisonnable dans ce cas."
 
 #: csharp\ICT\Common\Verification\DateChecks.cs:756
 msgid "{0} must be a valid time."
-msgstr ""
+msgstr "{0} doit être un temps valide."
 
 #: csharp\ICT\Common\Verification\GeneralChecks.cs:41 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "A value must be entered for {0}."
-msgstr ""
+msgstr "Une valeur doit être entrée pour {0}."
 
 #: csharp\ICT\Common\Verification\GuiChecks.cs:42
 msgid "At least one item needs to be checked."
-msgstr ""
+msgstr "Au moins un élément doit être coché."
 
 #: csharp\ICT\Common\Verification\GuiChecks.cs:43
 msgid "No item has been selected"
-msgstr ""
+msgstr "Aucun élément a été sélectionné"
 
 #: csharp\ICT\Common\Verification\GuiChecks.cs:44
 msgid "You have typed in a non-existing item."
-msgstr ""
+msgstr "Vous avez tapé dans une pièce non-existante."
 
 #: csharp\ICT\Common\Verification\GuiChecks.cs:162
 msgid "Duplicate record"
-msgstr ""
+msgstr "Enregistrement en double"
 
 #: csharp\ICT\Common\Verification\Helper.cs:68 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Value"
-msgstr ""
+msgstr "Valeur"
 
 #: csharp\ICT\Common\Verification\Main.cs:959
 msgid ""
@@ -450,6 +507,9 @@ msgid ""
 "    Problem: {2}\r\n"
 "    (Severity: {1}, Code={3})"
 msgstr ""
+"{0}\n"
+"    Problem: {2}\n"
+"    (Severity: {1}, Code={3})"
 
 #: csharp\ICT\Common\Verification\Main.cs:960
 msgid ""
@@ -457,82 +517,89 @@ msgid ""
 "    Problem: {2}\r\n"
 "    (Severity: {1})"
 msgstr ""
+"{0}\n"
+"    Problème: {2}\n"
+"    (Sévérité: {1})"
 
 #: csharp\ICT\Common\Verification\Main.cs:961
 msgid ""
 "{0}\r\n"
 "    Status: {2}\r\n"
 msgstr ""
+"{0}\n"
+"    Statut: {2}\n"
 
 #: csharp\ICT\Common\Verification\Main.cs:1938
 msgid "Exception has been thrown"
-msgstr ""
+msgstr "Une Exception a été levée"
 
 #: csharp\ICT\Common\Verification\Main.cs:1946
 msgid "Inner Exception"
-msgstr ""
+msgstr "Exception intérieure"
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:41
 msgid "{0} must be a number without a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre sans virgule décimale."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:42
 msgid "{0} must be a number with a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre avec une virgule."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:44
 msgid "{0} must be a positive number without a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre positif sans point décimal."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:46
 msgid "{0} must be a positive number with a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre positif avec un point décimal."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:48
 msgid "{0} must be a positive number without a decimal point, or 0."
-msgstr ""
+msgstr "{0} doit être un nombre positif sans point décimal, ou 0."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:50
 msgid "{0} must be a positive number with a decimal point, or 0."
-msgstr ""
+msgstr "{0} doit être un nombre positif avec un point décimal, ou 0."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:52
 msgid "{0} must be a negative number without a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre négatif sans point décimal."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:54
 msgid "{0} must be a negative number with a decimal point."
-msgstr ""
+msgstr "{0} doit être un nombre négatif avec un point décimal."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:56
 msgid "{0} must be a negative number without a decimal point, or 0."
-msgstr ""
+msgstr "{0} doit être un nombre négatif sans point décimal, ou 0."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:58
 msgid "{0} must be a negative number with a decimal point, or 0."
-msgstr ""
+msgstr "{0} doit être un nombre négatif avec un point décimal, ou 0."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:60
 msgid "{0} must be a positive or negative number but not zero."
-msgstr ""
+msgstr "{0} doit être un nombre positif ou négatif mais non nulle."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:61
 msgid "{0} cannot be greater than {1}."
-msgstr ""
+msgstr "{0} ne peut pas être supérieur à {1}."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:62
 msgid "{0} cannot be greater or equal to {1}."
-msgstr ""
+msgstr "{0} ne peut pas être supérieure ou égale à {1}."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:63
 msgid "{0} needs to be between {1} and {2}."
-msgstr ""
+msgstr "{0} doit être compris entre {1} et {2}."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:65
 msgid ""
 "{0} must not have more than {1} digits before the decimal point, but it has "
 "got {2}."
 msgstr ""
+"{0} ne doit pas avoir plus de {1} chiffres avant la virgule, mais il a "
+"obtenu {2}."
 
 #: csharp\ICT\Common\Verification\NumericalChecks.cs:67
 msgid ""
@@ -540,42 +607,45 @@ msgid ""
 "Therefore a loss in decimal precision will occur as rounding will be applied "
 "from decimal digit {3} onwards."
 msgstr ""
+"{0} a plus de chiffres après la virgule ({1}) que peuvent être stockés ({2})"
+". Par conséquent, une perte de précision décimale se produira ainsi "
+"l'arrondi sera appliqué à partir de chiffres décimaux {3} ."
 
 #. / Generic indication of invalid data.
 #. / Shown when invalid data was entered.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:34 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Invalid Data"
-msgstr ""
+msgstr "Données non valide"
 
 #. / Generic indication of missing data.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:37
 msgid "Information Missing"
-msgstr ""
+msgstr "Informations manquantes"
 
 #. / Generic indication of an invalid number.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:40
 msgid "Invalid number entered."
-msgstr ""
+msgstr "Nombre incorrect est entré."
 
 #. / Generic indication of a precision loss due to rounding.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:43
 msgid "Precision loss due to rounding."
-msgstr ""
+msgstr "perte de précision due à l'arrondissement  ."
 
 #. / Generic indication of invalid numbers.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:46
 msgid "Invalid numbers entered."
-msgstr ""
+msgstr "Nombres incorrect est entré."
 
 #. / Generic indication of an invalid date.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:49
 msgid "Invalid date entered."
-msgstr ""
+msgstr "Date incorrect est entré."
 
 #. / Generic indication of an invalid string.
 #: csharp\ICT\Common\Verification\Resourcestrings.cs:52
 msgid "Invalid value entered."
-msgstr ""
+msgstr "Une Valeur incorrect est entré."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:48
 msgid ""
@@ -583,6 +653,9 @@ msgid ""
 "(';'). These characters are not valid in an e-mail address, but they can be "
 "used to separate several e-mail addresses."
 msgstr ""
+"Remarque: L'adresse de courriel soumise contient une virgule (',') ou un "
+"point-virgule (';'). Ces caractères ne sont pas valides dans une adresse e-"
+"mail, mais ils peuvent être utilisés pour séparer plusieurs adresses e-mail."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:51
 msgid ""
@@ -591,30 +664,39 @@ msgid ""
 "used to separate several e-mail addresses. However, in this case only ONE e-"
 "mail address is allowed!"
 msgstr ""
+"Raison: L'adresse de courriel soumise contient une virgule (',') ou un point-"
+"virgule (';'). Ces caractères ne sont pas valides dans une adresse e-mail, "
+"mais ils peuvent être utilisés pour séparer plusieurs adresses e-mail. "
+"Cependant, dans ce cas, seule adresse e-mail est permis !"
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:54
 msgid "The e-mail address '{0}' is not valid."
-msgstr ""
+msgstr "L'adresse e-mail '{0}' n'est pas valable."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:57
 msgid "The e-mail address '{0}' (or a part of it, '{1}') is not valid."
 msgstr ""
+"L'adresse e-mail '{0}' (ou une partie de celui-ci, '{1}') n'est  pas valide."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:59
 msgid ""
 "Invalid Order.\r\n"
 "{0} cannot be greater than {1}."
 msgstr ""
+"Index non valide.\n"
+"{0} ne peut pas être supérieur à {1}."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:64
 msgid ""
 "The value you entered for {0} is too long - its maximum length is {1} "
 "characters, but you entered {2} characters."
 msgstr ""
+"La valeur saisie pour {0} est trop long - sa longueur maximale est {1} "
+"caractères, mais vous avez entré {2} caractères."
 
 #: csharp\ICT\Common\Verification\StringChecks.cs:67
 msgid "The value you entered for {0} is currently inactive."
-msgstr ""
+msgstr "La valeur saisie pour {0} est actuellement inactive."
 
 #: csharp\ICT\Common\HelpLauncher.cs:227
 msgid ""
@@ -624,82 +706,99 @@ msgid ""
 "Client Config file ('HTMLHelpBaseURLLocal' and 'HTMLHelpBaseURLOnInternet' "
 "settings)."
 msgstr ""
+"L'Aide de l'application n'a pas pu être ouvert.\n"
+"Raison: L'URL qui pointe vers les fichiers d'aide ne sont pas configurés "
+"dans le\n"
+"Fichier de configuration du client ('HTMLHelp BaseURL local »et les "
+"paramètres« HTMLHelpBaseURLOn Internet »)."
 
 #: csharp\ICT\Common\Types.cs:294
 msgid "invalid database system"
-msgstr ""
+msgstr "système de base de données non valide"
 
 #: csharp\ICT\Petra\Client\app\Core\Cache.cs:288 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "You do not have enough permissions to access the Finance module:"
 msgstr ""
+"Vous ne disposez pas de suffisamment d'autorisations pour accéder au module "
+"Finance:"
 
 #: csharp\ICT\Petra\Client\app\Core\ExceptionHandling.cs:128 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "This functionality is not yet implemented in OpenPetra."
-msgstr ""
+msgstr "Cette fonctionnalité n'a pas encore été mis en œuvre dans OpenPetra."
 
 #: csharp\ICT\Petra\Client\app\Core\ExceptionHandling.cs:131
 msgid "Not Implemented"
-msgstr ""
+msgstr "Pas mis en œuvre"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDetailsDialog-generated.cs:59 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Copy To Clipboard"
-msgstr ""
+msgstr "Copier vers le presse-papier"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDetailsDialog-generated.cs:61
 msgid "Show Server Log"
-msgstr ""
+msgstr "Afficher les logs du serveur"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDetailsDialog-generated.cs:62
 msgid "Show Client Log"
-msgstr ""
+msgstr "Afficher les log du client"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDetailsDialog-generated.cs:63
 msgid "Error Details - OpenPetra"
-msgstr ""
+msgstr "Details des erreurs- OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:61
 msgid "OpenPetra Client Has Encountered An Error And Needs To Close"
-msgstr ""
+msgstr "OpenPetra client a rencontré une erreur et doit fermer"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:62
 msgid "OpenPetra Client Has Encountered An Error"
-msgstr ""
+msgstr "OpenPetra client a rencontré une erreur"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:64
 msgid ""
 "The OpenPetra Client application has encountered an internal error from "
 "which it cannot recover."
 msgstr ""
+"L'application client OpenPetra a rencontré une erreur interne à partir de "
+"laquelle il ne peut pas récupérer."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:66
 msgid ""
 "The OpenPetra Client application has encountered an internal error which it "
 "cannot handle properly."
 msgstr ""
+"L'application client OpenPetra a rencontré une erreur interne qui ne peut "
+"pas gérer correctement."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:68
 msgid ""
 "Any data that has not been saved will be lost. We are sorry for any "
 "inconvenience caused."
 msgstr ""
+"Toutes les données qui n'a pas été enregistrée sera perdue. Nous sommes "
+"désolés pour la gêne occasionnée."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:70
 msgid ""
 "You may be able to continue working with OpenPetra, but we recommend closing "
 "OpenPetra and starting over again. We are sorry for any inconvenience caused."
 msgstr ""
+"Vous pourriez être en mesure de continuer à travailler avec OpenPetra, mais "
+"nous recommandons la fermeture de OpenPetra et recommencer à nouveau. Nous "
+"sommes désolés pour la gêne occasionnée."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:71
 msgid "Choose 'OK' to close this error information. "
-msgstr ""
+msgstr "Choisissez 'OK' pour fermer cette information d'erreur. "
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:72
 msgid "Choose 'Close OpenPetra' to close the OpenPetra application. "
-msgstr ""
+msgstr "Choisissez 'Fermer OpenPetra' pour fermer l'application OpenPetra. "
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:73
 msgid "Choose 'Error Details...' to see detailed information. "
 msgstr ""
+"Choisissez \" Details Erreurs...» pour obtenir des informations détaillées. "
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:75
 msgid ""
@@ -707,46 +806,54 @@ msgid ""
 "the information to the Clipboard and paste it into an e-mail. The e-mail "
 "address is: {0}."
 msgstr ""
+"Si vous voulez envoyer cette information à votre équipe de soutien "
+"OpenPetra, copier les informations dans le Presse-papiers et le coller dans "
+"un e-mail. L'adresse e-mail est: {0}."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:77
 msgid ""
 "The OpenPetra Client application has lost its connection to the OpenPetra "
 "Server. The broken connection cannot be recovered."
 msgstr ""
+"L'application client OpenPetra a perdu sa connexion au OpenPetra Server. La "
+"rupture de connexion ne peut pas être récupéré."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:79
 msgid ""
 "Try to save any data that has not been saved, then close OpenPetra and start "
 "over again. We are sorry for any inconvenience caused."
 msgstr ""
+"Essayez d'enregistrer toutes les données qui n'a pas été enregistré, puis "
+"fermez OpenPetra et recommencer à nouveau. Nous sommes désolés pour la gêne "
+"occasionnée."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:81
 msgid "OpenPetra Client Has Lost Its Connection To The OpenPetra Server"
-msgstr ""
+msgstr "OpenPetra client a perdu sa connexion au serveur OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:245 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Error &Details..."
-msgstr ""
+msgstr "&Détails de l'erreur..."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:246 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Close OpenPetra"
-msgstr ""
+msgstr "&Fermer OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:247 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Report Error"
-msgstr ""
+msgstr "&Report Error"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionDialog.cs:362 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Application Error"
-msgstr ""
+msgstr "Erreur Application"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog-generated.cs:61
 msgid "Log Files - OpenPetra"
-msgstr ""
+msgstr "Fichier Log - OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog.ManualCode.cs:78
 msgid "The Server log file:"
-msgstr ""
+msgstr "Le fichier journal du serveur :"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog.ManualCode.cs:83
 msgid ""
@@ -754,14 +861,17 @@ msgid ""
 "displayed in this window if you are using the standalone version or the "
 "development environment."
 msgstr ""
+"Problème sur l'ouverture du fichier journal. Le journal du serveur ne peut ("
+"pour le moment) être affiché dans cette fenêtre si vous utilisez la version "
+"autonome ou l'environnement de développement."
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog.ManualCode.cs:95
 msgid "The Client log file:"
-msgstr ""
+msgstr "Le fichier log du client :"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog.ManualCode.cs:99
 msgid "Problem on opening logfile"
-msgstr ""
+msgstr "Problème sur l'ouverture logfile"
 
 #: csharp\ICT\Petra\Client\app\Core\UnhandledExceptionLogFileDialog.ManualCode.cs:105
 msgid ""
@@ -769,50 +879,55 @@ msgid ""
 "({0})\r\n"
 "is not available!"
 msgstr ""
+"Une erreur est survenue. Le fichier journal que vous recherchez\n"
+"({0})\n"
+"n'est pas disponible !"
 
 #: csharp\ICT\Petra\Client\app\Formatting\DataBinding.cs:297
 msgid "today"
-msgstr ""
+msgstr "Aujourd'hui"
 
 #. / This resourcestring needs to be public as it is referenced from outside this Class as well.
 #: csharp\ICT\Petra\Client\app\Gui\LocalisedStrings.cs:41
 msgid "County/St&ate:"
-msgstr ""
+msgstr "Pays/Et&at :"
 
 #. / Message Number
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:51
 msgid "Message Number: "
-msgstr ""
+msgstr "Numéro Message : "
 
 #. / Context
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:54
 msgid "Context: "
-msgstr ""
+msgstr "Contexte: "
 
 #. / Release
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:57
 msgid "Release: "
-msgstr ""
+msgstr "Release : "
 
 #. / Shown when the Form contains invalid data.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:60
 msgid "Form Contains Invalid Data!"
-msgstr ""
+msgstr "Le formulaire contient des données incorrectes !"
 
 #. / Shown when there are Warnings associated with a Form's data.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:63
 msgid "Form Data Warning"
-msgstr ""
+msgstr "Formulaire de données Avertissement"
 
 #. / Shown when the Form contains deleted records and at least one of them is referenced in the DB (hence it cannot be deleted).
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:69
 msgid "Deletion of Record Not Possible!"
-msgstr ""
+msgstr "Suppression de données impossible !"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:73
 msgid ""
 "The operation cannot be performed because the form contains invalid data:"
 msgstr ""
+"L'opération ne peut être effectuée parce que le formulaire contient des "
+"données non valides :"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:77
 msgid ""
@@ -820,10 +935,13 @@ msgid ""
 "record\r\n"
 "(you can move away from that record, though):"
 msgstr ""
+"Il y a des messages d'avertissement associés aux données dans le dossier en "
+"cours d'édition\n"
+"(Vous pouvez vous déplacer loin de ce dossier, bien que):"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:81
 msgid "The currently edited record contains invalid data:"
-msgstr ""
+msgstr "L'enregistrement en cours d'édition contient des données non valides :"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:85
 msgid ""
@@ -832,16 +950,20 @@ msgid ""
 "Saving of data is not possible anymore from this screen - please close it to "
 "continue your work."
 msgstr ""
+"Vous avez essayé de supprimer un enregistrement qui est référencé ailleurs; "
+"cet enregistrement ne peut donc pas être supprimé.\n"
+"Enregistrement des données ne sont pas plus possible à partir de cet écran - "
+"s'il vous plaît fermer pour continuer votre travail."
 
 #. / Shown when the Form contains invalid data at the point of saving data.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:89
 msgid "Record Contains Invalid Data!"
-msgstr ""
+msgstr "Il existe des enregistrements contenant des données non valides !"
 
 #. / Database Concurrency Message Title.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:100
 msgid "Unable to Save - Concurrent Activity Detected"
-msgstr ""
+msgstr "Impossible d'enregistrer - Activité Concurrent détectée"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:104
 msgid ""
@@ -852,6 +974,12 @@ msgid ""
 "overwritten.\r\n"
 "\r\n"
 msgstr ""
+"Un autre utilisateur {0} a {1} le même enregistrement dans le tableau '{2}' "
+"après avoir\n"
+"{3} cet enregistrement. {4}\n"
+"Aucun de vos modifications ne peuvent être sauvegardées, étant donné que les "
+"modifications de l'autre utilisateur seraient écrasés.\n"
+"\n"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:111
 msgid ""
@@ -862,6 +990,12 @@ msgid ""
 "could potentially conflict with each other.\r\n"
 "\r\n"
 msgstr ""
+"Vous avez essayé de {1} le même enregistrement dans le tableau\n"
+"'{2}' après que vous avez {3} {4}.\n"
+"\n"
+"Aucun de vos changements en cours peut être sauvé, car ces changements\n"
+"pourraient entrer en conflit les uns avec les autres.\n"
+"\n"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:118
@@ -873,71 +1007,79 @@ msgid ""
 "  * In case the error keeps occuring: please contact your OpenPetra support "
 "team."
 msgstr ""
+"Actions requises:\n"
+"   * Si vous étiez dans un écran: s'il vous plaît fermer l'écran et de ré-"
+"ouvrir à nouveau.\n"
+"   * Vous aurez besoin de répéter vos modifications et les enregistrer à "
+"nouveau.\n"
+"   * Dans le cas où l'erreur continue survenant: s'il vous plaît contacter "
+"votre équipe de support OpenPetra."
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:124
 msgid "modified"
-msgstr ""
+msgstr "Modifié"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:127
 msgid "modified and saved"
-msgstr ""
+msgstr "Modifié et sauvegardé"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:130
 msgid "modify and save"
-msgstr ""
+msgstr "Modifie et sauve"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:133
 msgid "opened and before you deleted"
-msgstr ""
+msgstr "ouvert et avant que vous avez supprimé"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:136
 msgid "deleted it somewhere else"
-msgstr ""
+msgstr "supprimé dans un autre endroit"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:139
 msgid "deleted"
-msgstr ""
+msgstr "supprimé"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:142
 msgid "delete"
-msgstr ""
+msgstr "supprimer"
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:145
 msgid " The other user has done this on {0}."
-msgstr ""
+msgstr " L'autre utilisateur a fait cela sur {0}."
 
 #. / Part of a Database Concurrency Message.
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:148
 msgid " it in another place on {0}"
-msgstr ""
+msgstr " dans un autre endroit sur {0}"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:423 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Security Violation"
-msgstr ""
+msgstr "Violation de Sécurité"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:449 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "You do not have permission to {0} {1} records."
-msgstr ""
+msgstr "Vous n'êtes pas autorisé à {0} {1} enregistrements."
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:471
 msgid "Access to Partner {0}denied."
-msgstr ""
+msgstr "Accès au partenaire {0} refusée."
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:488
 msgid "Reason: Partner is a Private Partner of another user."
-msgstr ""
+msgstr "Raison: le partenaire est un partenaire privé d'un autre utilisateur."
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:493
 msgid "Reason: You must be the owner of a foundation in order to edit it."
 msgstr ""
+"Raison: Vous devez être le propriétaire d'une fondation afin de le modifier."
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:552
 msgid ""
@@ -950,53 +1092,66 @@ msgid ""
 "tried to update it (this points to a programming error).\r\n"
 "\r\n"
 msgstr ""
+"Vous avez essayé de mettre à jour les données, mais que les données ne sont "
+"pas présentes dans la base de données OpenPetra.\n"
+"Cela signifie que soit\n"
+"  * Ces données ont été supprimé avant d'essayer de les mettre à jour ("
+"probablement par quelqu'un d'autre); ou\n"
+"  * Que ces données ne figurait pas dans la base de données OpenPetra du "
+"tout avant d'essayer de les mettre à jour (cela indique une erreur de "
+"programmation).\n"
+"\n"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:732
 msgid ""
 "When {0} already exists for {1} you must delete the {2} first.\r\n"
 "\r\n"
 msgstr ""
+"Lorsque {0} existe déjà pour {1} vous devez supprimer le {2} en premier.\n"
+"\n"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:741
 msgid ""
 "When {0} already exist for {1} you must delete the {0} first.\r\n"
 "\r\n"
 msgstr ""
+"Lorsque {0} existe déjà pour {1} vous devez supprimer le {0} en premier.\n"
+"\n"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:750
 msgid "Deletion Not Possible"
-msgstr ""
+msgstr "Suppression Pas possible"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:804
 msgid "This date has exceeded the limit: {0}"
-msgstr ""
+msgstr "Cette date a dépassé la limite: {0}"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:808
 msgid "Date exceeded ..."
-msgstr ""
+msgstr "Date de dépassement ..."
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:818
 msgid "This date is earlier than the date limit: {0}"
-msgstr ""
+msgstr "Cette date est antérieure à la date limite: {0}"
 
 #: csharp\ICT\Petra\Client\app\Gui\Messages.cs:822
 msgid "Date underrun ..."
-msgstr ""
+msgstr "Date underrun ..."
 
 #. / <summary>String for the title</summary>
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:38
 #: csharp\ICT\Petra\Client\MFinance\Gui\Setup\EmailDestinationSetup-generated.cs:238 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Partner"
-msgstr ""
+msgstr "Partenaire"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:41
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\LocalDataFieldSetup.ManualCode.cs:167 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Partner Class"
-msgstr ""
+msgstr "Classe de Partenaire"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:44
 msgid "PartnerKey"
-msgstr ""
+msgstr "Clé de Partenaire"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:53
 msgid ""
@@ -1007,12 +1162,20 @@ msgid ""
 "example, ALT+N will create a new record.  Simply press the ALT key to see "
 "the available options for the current screen."
 msgstr ""
+"Ces raccourcis clavier familiers sont utilisés dans de nombreuses "
+"applications Windows. OpenPetra les utilise pour effectuer la fonctionnalité "
+"que vous attendez habituellement. En plus des raccourcis énumérés ici, de "
+"nombreux écrans ont ALT + combinaisons de touches associées aux boutons. "
+"Souvent, par exemple, ALT + N va créer un nouveau record. Appuyez simplement "
+"sur la touche ALT pour afficher les options disponibles pour l'écran actuel."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:57
 msgid ""
 "These keyboard shortcuts only apply when keyboard input is currently "
 "directed to a List of records."
 msgstr ""
+"Ces raccourcis clavier appliquent uniquement lorsque l'entrée du clavier est "
+"actuellement dirigé vers une liste d'enregistrements."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:61
 msgid ""
@@ -1021,6 +1184,11 @@ msgid ""
 "next keyboard input to the first data entry field below the List, or the "
 "List itself if there is no data entry field."
 msgstr ""
+"Ces raccourcis clavier appliquent aux écrans qui ont une liste "
+"d'enregistrements. Ils peuvent être utilisés partout où l'entrée au clavier "
+"est actuellement dirigé. Ils dirigent la prochaine entrée de clavier pour le "
+"premier champ de saisie de données ci-dessous la liste ou la liste elle-même "
+"s'il n'y a pas de champ de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:65
 msgid ""
@@ -1030,366 +1198,405 @@ msgid ""
 "able to follow F3 or SHIFT+F3 by pressing ENTER to open a new screen with "
 "more details."
 msgstr ""
+"Ces raccourcis clavier appliquent aux écrans qui ont une liste de dossiers "
+"et un filtre / Trouver panneau. Comme les raccourcis de navigation, ceux-ci "
+"appliquent la mesure entrée du clavier est actuellement dirigé. Selon le "
+"contexte, vous pourriez être en mesure de suivre F3 ou MAJ + F3 en appuyant "
+"sur Entrée pour ouvrir un nouvel écran avec plus de détails."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:72
 msgid "Ctrl+C"
-msgstr ""
+msgstr "Ctrl+C"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:76
 msgid ""
 "Copies the highlighted text in a text entry field to the clipboard.  Cannot "
 "be used to copy whole records."
 msgstr ""
+"Copie le texte mis en évidence dans un champ de saisie de texte dans le "
+"presse-papiers. Ne peut pas être utilisé pour copier des documents entiers."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:79
 msgid "Ctrl+X"
-msgstr ""
+msgstr "Ctrl+X"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:83
 msgid ""
 "Deletes the highlighted text in a text entry field and places it on the "
 "clipboard so that it can be pasted elsewhere."
 msgstr ""
+"Supprimer le texte en surbrillance dans un champ de saisie de texte et le "
+"place sur le presse-papiers afin qu'il puisse être collé ailleurs."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:86
 msgid "Ctrl+V"
-msgstr ""
+msgstr "Ctrl+V"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:90
 msgid ""
 "Pastes the clipboard text into the current text entry field at the cursor "
 "position."
 msgstr ""
+"Colle le texte du presse-papiers dans le champ de saisie de texte en cours à "
+"la position du curseur."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:93
 msgid "Ctrl+Tab"
-msgstr ""
+msgstr "Ctrl+Tab"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:97
 msgid ""
 "On screens that have multiple tabbed 'pages' this key combination switches "
 "to the next tab."
 msgstr ""
+"Sur les écrans qui ont «pages» de multiples onglets cette combinaison de "
+"touches passe à l'onglet suivant."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:100
 msgid "Shift+Ctrl+Tab"
-msgstr ""
+msgstr "Shift+Ctrl+Tab"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:104
 msgid ""
 "On screens that have multiple tabbed 'pages' this key combination switches "
 "to the previous tab."
 msgstr ""
+"Sur les écrans qui ont «pages» de multiples onglets cette combinaison de "
+"touches passe à l'onglet précédent."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:107
 msgid "Ctrl+S"
-msgstr ""
+msgstr "Ctrl+S"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:110
 msgid "Saves the pending screen changes."
-msgstr ""
+msgstr "Enregistre les modifications de l'écran en cours."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:113
 msgid "Ctrl+P"
-msgstr ""
+msgstr "Ctrl+P"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:116
 msgid "Prints the data displayed in the List (where available)"
-msgstr ""
+msgstr "Imprime les données affichées dans la liste (si disponible)"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:119
 msgid "Escape"
-msgstr ""
+msgstr "Espace"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:123
 msgid ""
 "The Esc key closes a screen, if this behaviour has been set in 'User "
 "Preferences'."
 msgstr ""
+"La touche Echap ferme un écran, si ce comportement a été défini dans «"
+"Préférences utilisateur»."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:129
 msgid "Home"
-msgstr ""
+msgstr "Accueil"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:132
 msgid "Selects the first row in the List."
-msgstr ""
+msgstr "Sélectionne la première ligne dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:135
 msgid "PgUp"
-msgstr ""
+msgstr "PgUp"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:138
 msgid "Selects the row that is one 'page' up in the List."
-msgstr ""
+msgstr "Sélectionne la ligne qui est une «page» dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:141
 msgid "Up"
-msgstr ""
+msgstr "Up"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:144
 msgid "Selects the previous row in the List."
-msgstr ""
+msgstr "Sélectionne la ligne précédente dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:147
 msgid "Down"
-msgstr ""
+msgstr "Touche bas"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:150
 msgid "Selects the next row in the List."
-msgstr ""
+msgstr "Sélectionne la ligne suivante dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:153
 msgid "PgDn"
-msgstr ""
+msgstr "PgDn"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:156
 msgid "Selects the row that is one 'page' down in the List."
-msgstr ""
+msgstr "Sélectionne la ligne qui est une «page» dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:159
 msgid "End"
-msgstr ""
+msgstr "Fin"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:162
 msgid "Selects the last row in the List."
-msgstr ""
+msgstr "Sélectionne la dernière ligne de la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:165
 msgid "Ins"
-msgstr ""
+msgstr "Insert"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:168
 msgid "Inserts a new row into the List."
-msgstr ""
+msgstr "Insère une nouvelle ligne dans la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:171
 msgid "Del"
-msgstr ""
+msgstr "Supprimer"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:174
 msgid "Deletes the current row from the List."
-msgstr ""
+msgstr "Supprime la ligne actuelle de la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:177
 msgid "Enter"
-msgstr ""
+msgstr "ENTRER"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:181
 msgid ""
 "This may act like a mouse double-click or may start editing an entry on the "
 "highlighted row - depending on context."
 msgstr ""
+"Cela peut agir comme un double-clic de souris ou peut commencer à éditer une "
+"entrée sur la ligne en surbrillance - selon le contexte."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:187
 msgid "Ctrl+Home"
-msgstr ""
+msgstr "Ctrl+Home"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:191
 msgid ""
 "Selects the first row in the List of records and directs keyboard input to "
 "the first data entry field."
 msgstr ""
+"Sélectionne la première ligne dans la liste des enregistrements et dirige "
+"l'entrée de clavier pour le premier champ de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:194
 msgid "Ctrl+Up"
-msgstr ""
+msgstr "Ctrl+Up"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:198
 msgid ""
 "Selects the previous row in the List of records and directs keyboard input "
 "to the first data entry field."
 msgstr ""
+"Sélectionne la ligne précédente dans la liste des dossiers et dirige "
+"l'entrée de clavier pour le premier champ de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:201
 msgid "Ctrl+Down"
-msgstr ""
+msgstr "Ctrl+Down"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:205
 msgid ""
 "Selects the next row in the List of records and directs keyboard input to "
 "the first data entry field."
 msgstr ""
+"Sélectionne la ligne suivante dans la liste des dossiers et dirige l'entrée "
+"de clavier pour le premier champ de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:208
 msgid "Ctrl+End"
-msgstr ""
+msgstr "Ctrl+Fin"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:212
 msgid ""
 "Selects the last row in the List of records and directs keyboard input to "
 "the first data entry field."
 msgstr ""
+"Sélectionne la dernière ligne de la liste des enregistrements et dirige "
+"l'entrée de clavier pour le premier champ de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:215
 msgid "Ctrl+L"
-msgstr ""
+msgstr "Ctrl+L"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:218
 msgid "Directs keyboard input to the List of records at the current row."
-msgstr ""
+msgstr "entrée clavier direct à la liste des dossiers à la ligne actuelle."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:221
 msgid "Ctrl+E"
-msgstr ""
+msgstr "Ctrl+E"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:225
 msgid ""
 "Directs keyboard input to the first data entry field of the current record."
 msgstr ""
+"Dirige entrée de clavier pour le premier champ de l'enregistrement en cours "
+"de saisie de données."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:231
 msgid "Ctrl+R"
-msgstr ""
+msgstr "Ctrl+R"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:235
 msgid ""
 "Opens the Filter Panel and directs the keyboard input to the first criteria "
 "field."
 msgstr ""
+"Ouvre le panneau de filtre et dirige l'entrée de clavier pour le premier "
+"champ de critères."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:238
 msgid "Ctrl+F"
-msgstr ""
+msgstr "Ctrl+F"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:242
 msgid ""
 "Opens the Find Panel and directs the keyboard input to the first criteria "
 "field."
 msgstr ""
+"Ouvre le panneau Rechercher et dirige l'entrée de clavier pour le premier "
+"champ de critères."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:245
 msgid "F3"
-msgstr ""
+msgstr "F3"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:249
 msgid ""
 "Opens the Find Panel and finds the next matching item in the List.  Keyboard "
 "entry is directed to the List."
 msgstr ""
+"Ouvre le panneau Rechercher et trouve le prochain élément correspondant dans "
+"la liste. Clavier d'entrée est dirigé vers la liste."
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:252
 msgid "Shift+F3"
-msgstr ""
+msgstr "Shift+F3"
 
 #: csharp\ICT\Petra\Client\app\Gui\Resourcestrings.cs:256
 msgid ""
 "Opens the Find Panel and finds the previous matching item in the List.  "
 "Keyboard entry is directed to the List."
 msgstr ""
+"Ouvre le panneau Rechercher et trouve l'élément correspondant précédent dans "
+"la liste. L'entrer Clavier  est dirigé vers la liste."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:68 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Closes this window"
-msgstr ""
+msgstr "Ferme cette fenêtre"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:69 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Close"
-msgstr ""
+msgstr "&Fermer"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:70 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&File"
-msgstr ""
+msgstr "&Fichier"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:71
 msgid "&Tiles"
-msgstr ""
+msgstr "&Carrelage"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:72
 msgid "&List"
-msgstr ""
+msgstr "&List"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:73
 msgid "&Large"
-msgstr ""
+msgstr "&Large"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:74
 msgid "&Medium"
-msgstr ""
+msgstr "&Medium"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:75
 msgid "&Small"
-msgstr ""
+msgstr "&Petit"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:76
 msgid "Task &Size"
-msgstr ""
+msgstr "Tâche & Taille"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:77
 msgid "Single-&click to open an item"
-msgstr ""
+msgstr "Simple clic pour ouvrir un élément"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:78
 msgid "&Tasks"
-msgstr ""
+msgstr "&Taches"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:79
 msgid "&View"
-msgstr ""
+msgstr "&Afficher"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:80 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Petra Help"
-msgstr ""
+msgstr "Aide &Petra"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:81 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Bug &Report"
-msgstr ""
+msgstr "&Report de Bug"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:82
 msgid "&Help Improve Translations"
-msgstr ""
+msgstr "Aider à Améliorer les Traductions"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:83 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&About OpenPetra"
-msgstr ""
+msgstr "&A propos de OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:84 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&The Development Team..."
-msgstr ""
+msgstr "&L'équipe de développement ..."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew-generated.cs:85 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Help"
-msgstr ""
+msgstr "&Aide"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:53
 msgid "Cannot close Petra Main Menu."
-msgstr ""
+msgstr "Vous ne pouvez pas fermer  Petra Main Menu."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:54
 msgid "The following window(s) must be closed first:"
-msgstr ""
+msgstr "Les fenêtres suivantes doivent être fermés en premier:"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:56
 msgid ""
 "Note: Windows with unsaved changes are marked with '(*)' in this list."
 msgstr ""
+"Remarque: les fenêtres avec des modifications non enregistrées sont marqués "
+"avec '(*) »dans cette liste."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:57
 msgid "Open Windows Must Be Closed"
-msgstr ""
+msgstr "la fenetre ouverte  doit être fermée"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:286 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Current Conference"
-msgstr ""
+msgstr "Conférence actuelle"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:392
 msgid "Select Ledger"
-msgstr ""
+msgstr "Selectionner un livre"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:413
 msgid "Ledger {0} (#{1})"
-msgstr ""
+msgstr "Livre {0} (#{1})"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:418
 msgid "Ledger #{0}"
-msgstr ""
+msgstr "Grand Livre #{0}"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\MainWindowNew.ManualCode.cs:869 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Ledger "
-msgstr ""
+msgstr "Grand Livre "
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:188
 msgid "Starting OpenPetra Server..."
-msgstr ""
+msgstr "Démarrage de OpenPetra serveur ..."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:257
 msgid ""
@@ -1400,10 +1607,18 @@ msgid ""
 "you might use an IP address rather than a hostname for the server.\n"
 "Please ask your local System Administrator for help."
 msgstr ""
+"S'il vous plaît vérifiez que vous êtes connecté à votre lecteur réseau\n"
+"et vous pouvez accéder au répertoire\n"
+"{0}\n"
+"Si tel est le cas et que vous obtenez toujours ce message,\n"
+"vous pouvez utiliser une adresse IP plutôt qu'un nom d'hôte pour le serveur."
+"\n"
+"S'il vous plaît demander à votre administrateur système local pour avoir de "
+"l'aide."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:259
 msgid "Cannot check for patches"
-msgstr ""
+msgstr "ne peut  pas vérifier les patches"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:279
 msgid ""
@@ -1412,298 +1627,311 @@ msgid ""
 "The patch will be installed to directory '{2}'.\r\n"
 "Do you want to install now?"
 msgstr ""
+"Il y a un nouveau patch disponible: {0}.\n"
+"La version actuellement installée est {1}.\n"
+"Le patch sera installé dans le répertoire '{2}'.\n"
+"Voulez-vous installer maintenant?"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:283
 msgid "Install new OpenPetra patch"
-msgstr ""
+msgstr "Installez le nouveau patch OpenPetra"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\PetraClientMain.cs:354
 msgid "Failed to open logfile"
-msgstr ""
+msgstr "Impossible d'ouvrir le fichier journal"
 
 #: csharp\ICT\Petra\Client\app\MainWindow\SplashScreen.cs:64 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Loading..."
-msgstr ""
+msgstr "Chargement ..."
 
 #: csharp\ICT\Petra\Client\app\MainWindow\SplashScreen.cs:65 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Custom Text can be displayed here..."
-msgstr ""
+msgstr "Du texte personnalisé peut être affiché ici ..."
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\btnSplitButton.cs:229 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Starts with search term --*"
-msgstr ""
+msgstr "Commence par un  terme de recherche - *"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\btnSplitButton.cs:230 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Ends with search term *--"
-msgstr ""
+msgstr "Se termine par  le terme de recherche * --"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\btnSplitButton.cs:231 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Contains search term *-*"
-msgstr ""
+msgstr "Contient le terme de recherche * - *"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\btnSplitButton.cs:232 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Exactly matches search term ---"
-msgstr ""
+msgstr "correspond exactement au terme de recherche ---"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\Helper.cs:377
 msgid ""
 "No hint text is available for the following screen:{0}{1}.{0}Please inform "
 "the Open Petra team if you see this message."
 msgstr ""
+"Aucun trace de texte  n'est disponible pour l'écran suivant:. {0} {1} {0} "
+"S'il vous plaît informer l'équipe Open Petra si vous voyez ce message."
 
 #. / Error message
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:121
 msgid "NOT A VALID VALUE!"
-msgstr ""
+msgstr "PAS UNE VALEUR VALID !"
 
 #. / Error message
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:124
 msgid "NOT A VALID OCCUPATION CODE!"
-msgstr ""
+msgstr "PAS UN CODE DE PROFESSION VALABLE !"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:718
 msgid "&Occupation..."
-msgstr ""
+msgstr "&Profession..."
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:736
 msgid "&{0}"
-msgstr ""
+msgstr "&{0}"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:762
 msgid "&Extract"
-msgstr ""
+msgstr "&Extrait"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:786
 msgid "&Conference"
-msgstr ""
+msgstr "&Conférence"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:808
 msgid "&Event"
-msgstr ""
+msgstr "&Evenement"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:830
 msgid "&Bank"
-msgstr ""
+msgstr "&Banque"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1181
 msgid ""
 "The specified Occupation Code '{0}' is invalid!\r\n"
 "Please check spelling!"
 msgstr ""
+"Le code spécifié de Profession '{0}' est invalide!\n"
+"S'il vous plaît vérifier l'orthographe !"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1183
 msgid "Invalid Occupation Code"
-msgstr ""
+msgstr "Invalid Code de la profession"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1290 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "The specified {0} '{1}' is invalid!"
-msgstr ""
+msgstr "La spécification {0} '{1}' est invalide !"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1292 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Invalid "
-msgstr ""
+msgstr "invalide "
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1313
 msgid "No valid Extract selected"
-msgstr ""
+msgstr "Pas d'extration valide sélectionné"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:1314
 #: csharp\ICT\Petra\Client\MCommon\logic\Resourcestrings.cs:52 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Error"
-msgstr ""
+msgstr "Erreur"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2045
 msgid "### ShortName not retrieved ###"
-msgstr ""
+msgstr "### Le nom court n'est pas récupéré ###"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2134
 msgid "### Extract description not retrieved ###"
-msgstr ""
+msgstr "### Extrait Description non récupéré ###"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2167
 msgid "### {0} is not a Conference ###"
-msgstr ""
+msgstr "### {0} n'est pas une conférence ###"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2211
 msgid "### {0} is not an Event ###"
-msgstr ""
+msgstr "### {0} n'est pas un événement ###"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2508
 msgid "Open in Partner Edit Screen"
-msgstr ""
+msgstr "Ouvrir dans  l'écran de Modification du partenaire"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2512 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Copy"
-msgstr ""
+msgstr "Copier"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\txtAutoPopulatedButtonLabel.cs:2514 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Select All"
-msgstr ""
+msgstr "Selectionner tous"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:467
 msgid "Appl&y Filter"
-msgstr ""
+msgstr "Appliquer un filtre"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:468
 msgid "Applying Filter..."
-msgstr ""
+msgstr "Application du filtre..."
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:511 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "List Filter"
-msgstr ""
+msgstr "Liste des filtres"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:978
 msgid "List Filter and Find"
-msgstr ""
+msgstr "Lister les Filtres et Rechercher"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1175
 msgid "Kee&p Filter Turned On"
-msgstr ""
+msgstr "Laisser les filtres actifs"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1330
 msgid "Filter Always Turned On"
-msgstr ""
+msgstr "Filtres toujours actifs"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1527
 msgid "&Up"
-msgstr ""
+msgstr "&Up"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1535
 msgid "D&own"
-msgstr ""
+msgstr "D&own"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1594
 msgid "Filter the rows shown in the list"
-msgstr ""
+msgstr "Filtrer les lignes affichées dans la liste"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\ucoFilterAndFind.cs:1619
 msgid "Find within the rows shown in the list"
-msgstr ""
+msgstr "Trouver dans les lignes affichées dans la liste"
 
 #: csharp\ICT\Petra\Client\CommonControls\Gui\UC_CountryLabelledComboBox.cs:93 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Country Name"
-msgstr ""
+msgstr "Nom du pays"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\AboutDialog-generated.cs:68 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&OK"
-msgstr ""
+msgstr "&OK"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\AboutDialog-generated.cs:69 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Cancel"
-msgstr ""
+msgstr "&Annuler"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\AboutDialog-generated.cs:70 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Apply"
-msgstr ""
+msgstr "&Appliquer"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\AboutDialog-generated.cs:71
 msgid "About OpenPetra"
-msgstr ""
+msgstr "A propos de OpenPetra"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:56 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Create Extract"
-msgstr ""
+msgstr "Créer un Extrait"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:57 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Extract Name"
-msgstr ""
+msgstr "Extrait le Nom"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:58 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Description"
-msgstr ""
+msgstr "Description"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:104
 msgid ""
 "The extract was not created because an extract with that name already exists"
-msgstr ""
+msgstr "L'extrait n'a pas été créé parce que un extrait du même nom existe déjà"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:104 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Failure"
-msgstr ""
+msgstr "Échec"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\CreateExtract.cs:108
 msgid "The extract was not created"
-msgstr ""
+msgstr "L'extrait n'a pas été créé"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog-generated.cs:71 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "General"
-msgstr ""
+msgstr "Générale"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog-generated.cs:72 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "List"
-msgstr ""
+msgstr "Lister"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog-generated.cs:73
 msgid "Navigation"
-msgstr ""
+msgstr "Navigation"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog-generated.cs:74 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Filter"
-msgstr ""
+msgstr "Filtrer"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog-generated.cs:75
 msgid "Help with Keyboard Shortcuts"
-msgstr ""
+msgstr "Aide avec les raccourcis clavier"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog.ManualCode.cs:60
 msgid "Shortcut"
-msgstr ""
+msgstr "raccourcis"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\KeyboardShortcutsDialog.ManualCode.cs:122
 msgid "Filter and Find"
-msgstr ""
+msgstr "Filtrer et Rechercher"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:68 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "OpenPetra Login"
-msgstr ""
+msgstr "Login OpenPetra"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:69
 msgid "For details see the log file"
-msgstr ""
+msgstr "Pour plus de détails voir le fichier journal"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:105 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&User ID"
-msgstr ""
+msgstr "& ID Utilisateur"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:106 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Password"
-msgstr ""
+msgstr "&Mot de Passe"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:107 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid " &Login"
-msgstr ""
+msgstr " &Login"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:108 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid " &Quit"
-msgstr ""
+msgstr " &Quitter"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:109 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Remember the User ID"
-msgstr ""
+msgstr "Rappeler l'ID de l'utilisateur"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:110 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Initial Login: demo/demo or sysadmin/CHANGEME"
-msgstr ""
+msgstr "Login Initial : demo/demo ou sysadmin/CHANGEME"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:111 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Version"
-msgstr ""
+msgstr "Version"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:263
 msgid "Please enter a User ID and a Password to log in into OpenPetra."
 msgstr ""
+"S'il vous plaît entrer un nom d'utilisateur et un mot de passe pour vous "
+"connecter à OpenPetra."
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:274
 msgid "The Caps Lock key is ON. Please switch it off and try to login again"
 msgstr ""
+"Le Caps Lock est activée. S'il vous plaît éteindre et essayez de vous "
+"connecter à nouveau"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:317 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "You need to change your password immediately."
-msgstr ""
+msgstr "Vous devez immédiatement changer votre mot de passe."
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:362
+#, fuzzy
 msgid "OpenPetra Client/Server Program Version Mismatch!"
-msgstr ""
+msgstr "OpenPetra Client / Server Program Version Mismatch!"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:374
 msgid ""
@@ -1711,68 +1939,74 @@ msgid ""
 "\r\n"
 "Please try again after a short time!"
 msgstr ""
+"Le Server OpenPetra  est trop occupé pour accepter la demande de connexion.\n"
+"\n"
+"S'il vous plaît essayer de nouveau après une courte période !"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:375
 msgid "OpenPetra Server Busy"
-msgstr ""
+msgstr "OpenPetra Serveur occupé"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:389
 msgid "Too many users are logged in."
-msgstr ""
+msgstr "Trop d'utilisateurs sont connectés."
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:390
 msgid "Too Many Users"
-msgstr ""
+msgstr "Trop d'utilisateurs"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:398 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "An error occurred while trying to connect to the OpenPetra Server!"
 msgstr ""
+"Une erreur est survenue en essayant de se connecter au serveur OpenPetra !"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:407 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Server Connection Error"
-msgstr ""
+msgstr "Erreur de connexion serveur"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:452
 msgid "Unsupported upgrade"
-msgstr ""
+msgstr "upgrade non supporté"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:460 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "The OpenPetra Server cannot be reached!"
-msgstr ""
+msgstr "Le Server OpenPetra  est inaccessible !"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:462 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "No Server Response"
-msgstr ""
+msgstr "Pas de réponse Serveur"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:653 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Change your password"
-msgstr ""
+msgstr "changez votre mot de passe"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:654
 msgid "Please enter the new password:"
-msgstr ""
+msgstr "S'il vous plaît entrer le nouveau mot de passe :"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:667
 msgid ""
 "Password not changed as the old password was entered. Please enter a new "
 "password."
 msgstr ""
+"Le Mot de passe ne change pas, comme si l'ancien mot de passe a été entré. "
+"S'il vous plaît entrer un nouveau mot de passe."
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:674
 msgid "Please enter the new password once more:"
-msgstr ""
+msgstr "S'il vous plaît entrer le nouveau mot de passe une fois de plus :"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:686 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Password was successfully set for user {0}"
-msgstr ""
+msgstr "Le Mot de passe a été créé avec succès pour l'utilisateur {0}"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\LoginDialog.cs:692 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "There was a problem setting the password for user {0}."
-msgstr ""
+msgstr "Il y avait un problème fixant le mot de passe utilisateur {0}."
 
 #: csharp\ICT\Petra\Client\CommonDialogs\ProgressDialog.cs:62 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Progress Dialog"
-msgstr ""
+msgstr "Progress Dialog"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\ProgressDialog.cs:95
 msgid ""
@@ -1780,388 +2014,409 @@ msgid ""
 "\r\n"
 "Note: Execution is continuing until 'Yes' is chosen!"
 msgstr ""
+"Voulez-vous vraiment annuler?\n"
+"\n"
+"Remarque: L'exécution se poursuit jusqu'à ce que 'Oui' soit choisi !"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\ProgressDialog.cs:96
 msgid "Confirm Cancellation"
-msgstr ""
+msgstr "Confirmer l'Annulation"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\UC_PetraLogoAndVersionInfo.cs:54 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "© 1995 - 2014 by OM International"
-msgstr ""
+msgstr "© 1995 - 2014 by OM International"
 
 #: csharp\ICT\Petra\Client\CommonDialogs\UC_PetraLogoAndVersionInfo.cs:55 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Standalone / Network / Remote"
-msgstr ""
+msgstr "Standalone / Network / Remote"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:68
 msgid "&Yes"
-msgstr ""
+msgstr "&Oui"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:69
 msgid "Yes to &all"
-msgstr ""
+msgstr "Oui pour tout"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:70
 msgid "&No"
-msgstr ""
+msgstr "&Non"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:71
 msgid "N&o to all"
-msgstr ""
+msgstr "Non pour tout"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:75 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Option"
-msgstr ""
+msgstr "Option"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:76
 msgid "Message"
-msgstr ""
+msgstr "Message"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:80
 msgid "Copy the message content to clipboard"
-msgstr ""
+msgstr "Copiez le contenu du message au presse-papiers"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:81
 msgid "Close the dialog using the 'Yes' option"
-msgstr ""
+msgstr "Fermez la boite de  dialogue en utilisant l'option 'Oui'"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:82
 msgid "Close the dialog using the 'Yes to All' option"
-msgstr ""
+msgstr "Fermez la boite de dialogue en utilisant l'option 'Oui pour Tout '"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:83
 msgid "Close the dialog using the 'No' option"
-msgstr ""
+msgstr "FERMEZ la boite de dialogue en Utilisant l'option \"Non '"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:84
 msgid "Close the dialog using the 'No to All' option"
-msgstr ""
+msgstr "Fermez le dialogue en utilisant l'option «Non to All '"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:85
 msgid "Close the dialog using the 'OK' option"
-msgstr ""
+msgstr "Fermez la boite de dialogue en utilisant l'option 'OK'"
 
 #: csharp\ICT\Petra\Client\CommonForms\ExtendedMessageBox-generated.cs:87
 msgid "Cancel the dialog"
-msgstr ""
+msgstr "Annuler la boîte de dialogue"
 
 #: csharp\ICT\Petra\Client\CommonForms\FormsList.cs:47
 msgid "Form Name: {0}, Form Title: {1}"
-msgstr ""
+msgstr "Nom Formulaire : {0}, Titre du formulaire: {1}"
 
 #. / This Resourcestring needs to be public becaused it is used elsewhere as well.
 #: csharp\ICT\Petra\Client\CommonForms\PetraEditForm.cs:56
 msgid "NEW: "
-msgstr ""
+msgstr "NOUVEAU : "
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraEditForm.cs:924
 msgid ""
 "You need to finish editing by choosing the 'Done' button\n"
 "before you can close the window!"
 msgstr ""
+"Vous devez terminer l'édition en cliquant sur le bouton «Terminé»\n"
+"avant de pouvoir fermer la fenêtre !"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraEditForm.cs:925
 msgid "Need to Finish Editing!"
-msgstr ""
+msgstr "Nécessité de terminer la modification !"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraEditForm.cs:973
 msgid "New OpenPetra Screen"
-msgstr ""
+msgstr "Écran Nouveau OpenPetra"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraForm.cs:181 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Incorrect Data"
-msgstr ""
+msgstr "données incorrectes"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraForm.cs:355
 msgid "Sorry, there is no help available for the context."
-msgstr ""
+msgstr "Désolé, il n'y a pas d'aide pour le contexte."
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraForm.cs:472
 #: csharp\ICT\Petra\Client\MCommon\logic\Resourcestrings.cs:49 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Warning"
-msgstr ""
+msgstr "Attention"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraForm.cs:478
 #: csharp\ICT\Petra\Client\MCommon\logic\Resourcestrings.cs:46
 msgid "Information"
-msgstr ""
+msgstr "Information"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraForm.cs:484 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Note"
-msgstr ""
+msgstr "Note"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraShepherdConcreteForm.cs:151
 msgid "Shepherd Pages"
-msgstr ""
+msgstr "Pages Shepherd"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraShepherdForm.cs:181 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "<< &Back"
-msgstr ""
+msgstr "<< &Arriere"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraShepherdForm.cs:182 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Next >>"
-msgstr ""
+msgstr "&Suivant >>"
 
 #: csharp\ICT\Petra\Client\CommonForms\PetraShepherdForm.cs:183 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Finish"
-msgstr ""
+msgstr "&Terminer"
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:37
 msgid "Filter is hidden."
-msgstr ""
+msgstr "Le filtre est caché."
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:40
 msgid "-> Click button to show the Filter Panel."
-msgstr ""
+msgstr "-> Cliquez sur le bouton pour afficher le panneau de filtre."
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:43
 msgid "-> Click button to hide the Filter Panel."
-msgstr ""
+msgstr "-> Cliquez sur le bouton pour cacher le panneau de filtre."
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:46
 msgid "The current filter is showing all the relevant records."
-msgstr ""
+msgstr "Le filtre actuel montre tous les documents pertinents."
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:49
 msgid "The current filter may be hiding some relevant records."
-msgstr ""
+msgstr "Le filtre courant peut  cacher certains dossiers pertinents."
 
 #. / Dialog message title
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:62
 msgid "Saving Window Positions"
-msgstr ""
+msgstr "Enregistrement des Positions de fenêtres"
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:66
 msgid ""
 "You have chosen to start storing window positions and sizes again.  Open "
 "Petra has saved this information in the past.  "
 msgstr ""
+"Vous avez de nouveau choisi de commencer à stocker les positions des "
+"fenêtres et des tailles . Open Petra a enregistré ces informations dans le "
+"passé.  "
 
 #. / Second part of the dialog message
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:69
 msgid "Do you want to keep this 'old' information or discard it?"
-msgstr ""
+msgstr "Voulez-vous garder cette 'anciens' information  ou de le rejeter ?"
 
 #: csharp\ICT\Petra\Client\CommonForms\Resourcestrings.cs:73
 msgid ""
 "Choose 'Yes' to re-use the sizes and positions that you saved previously.  "
 "Choose 'No' to discard this information and start over."
 msgstr ""
+"Choisissez 'Oui' pour réutiliser les tailles et les positions que vous avez "
+"enregistrés précédemment. Choisissez «Non» pour annuler ces informations et "
+"recommencer."
 
 #: csharp\ICT\Petra\Client\CommonForms\UC_PetraShepherdFinishPage-generated.cs:68 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Summary"
-msgstr ""
+msgstr "Résumé"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:151
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:151 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&New"
-msgstr ""
+msgstr "&Nouvelle"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:152
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:152 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Delete"
-msgstr ""
+msgstr "&Supprimer"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:154 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Country Code"
-msgstr ""
+msgstr "Code du Pays"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:156 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Country Name Local"
-msgstr ""
+msgstr "Nom local du Pays"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:157 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Undercover"
-msgstr ""
+msgstr "En couverture"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:158 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Int'l Access Code"
-msgstr ""
+msgstr "Code d'accès Int'l"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:159 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Int'l Dialling Code"
-msgstr ""
+msgstr "Intl Indicatif téléphonique"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:160
 msgid "Address Display Order"
-msgstr ""
+msgstr "ordre d'affichage des Adresse"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:161 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Int'l Postal Type"
-msgstr ""
+msgstr "Int'l Type Postal"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:162 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Time Zone From"
-msgstr ""
+msgstr "Zone de temps d'origine"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:163 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "To"
-msgstr ""
+msgstr "A"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:164 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Deletable"
-msgstr ""
+msgstr "supprimable"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:165 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Save changed data"
-msgstr ""
+msgstr "Enregistrer les données modifiées"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:166 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Save"
-msgstr ""
+msgstr "&Enregistrement"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:169 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Print..."
-msgstr ""
+msgstr "&Imprimer ..."
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:173 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Filter the displayed records by one or more criteria"
-msgstr ""
+msgstr "Filtrer les enregistrements affichés par un ou plusieurs critères"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:174 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Filte&r..."
-msgstr ""
+msgstr "Filtre&r..."
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:175 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Find a record that matches one or more criteria"
-msgstr ""
+msgstr "Trouver un enregistrement qui correspond à un ou plusieurs critères"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:176 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Find..."
-msgstr ""
+msgstr "&Rechercher..."
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:177 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Find the next record that matches the current 'Find' criteria"
 msgstr ""
+"Trouver l'enregistrement suivant qui correspond aux critères de 'Rechercher' "
+"actuels"
 
 #. /
 #. / This string is for the Find Next button on the Filter/Find panel in Ict.Common
 #. / So the definition is not accessible from there.  See TucoFilterAndFind
 #. /
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:178 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
+#, fuzzy
 msgid "Find Ne&xt"
-msgstr ""
+msgstr "Find Ne&xt"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:179 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Find the previous record that matches the current 'Find' criteria"
 msgstr ""
+"Trouver le précédent record qui correspond aux critères actuels de "
+"'Rechercher'"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:180 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Find Pre&vious"
-msgstr ""
+msgstr "Recherche Pre&cedent"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:181 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Undo &Current Field"
-msgstr ""
+msgstr "Annuler le &Champ actuel"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:182 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Undo Screen"
-msgstr ""
+msgstr "Ann&uler Ecran"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:183 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Edit"
-msgstr ""
+msgstr "&Editer"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:184 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&OpenPetra Help"
-msgstr ""
+msgstr "&Aide OpenPetra"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:185 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "&Keyboard Shortcuts"
-msgstr ""
+msgstr "&Raccourcis clavier"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:190 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Maintain Countries"
-msgstr ""
+msgstr "Maintenir les pays"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:200 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Click to create a new record"
-msgstr ""
+msgstr "Cliquez pour créer un nouveau enregistrement"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:201 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Click to delete the highlighted record(s)"
-msgstr ""
+msgstr "Cliquez pour supprimer l'enregistrement en surbrillance (s)"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:202 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Use the mouse or navigation keys to select a data row to view or edit"
 msgstr ""
+"Utilisez les touches de souris ou de navigation pour sélectionner une ligne "
+"de données pour afficher ou modifier"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:203
 msgid "Enter an internationally accepted (ISO) country code"
-msgstr ""
+msgstr "Entrez un code pays (ISO)   internationalement acceptée"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:204 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Enter the full name of the country"
-msgstr ""
+msgstr "Entrez le nom complet du pays"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:205
 msgid "Enter the full name of the country in your local language"
-msgstr ""
+msgstr "Entrez le nom complet du pays dans votre langue locale"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:206
 msgid "Select if the country is politically sensitive"
-msgstr ""
+msgstr "Sélectionnez si le pays est politiquement sensible"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:207
 msgid "International telephone access code needed to dial OUT"
 msgstr ""
+"code d'accès téléphonique international nécessaire pour les appels sortants"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:208
 msgid "Enter the International Code needed to dial INTO the country"
-msgstr ""
+msgstr "Entrez le code international nécessaire pour composer dans le pays"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:209
 msgid "0 = International; 1 = European; 2 = American"
-msgstr ""
+msgstr "0 = International; 1 = Européen; 2 = Américan"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:211 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Enter an international postal type code"
-msgstr ""
+msgstr "Entrez un type de code  postal international"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:213
 msgid "Enter the minimum time zone +/- relative to GMT"
-msgstr ""
+msgstr "Entrez le fuseau horaire minimum +/- par rapport à GMT"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:214
 msgid "Enter the maximum time zone +/- relative to GMT"
-msgstr ""
+msgstr "Entrez le fuseau horaire maximale +/- par rapport à GMT"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:215 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "This code is Required for System operation by other code"
 msgstr ""
+"Ce code est nécessaire pour le fonctionnement du système par un autre code"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:253 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Time Zone Min."
-msgstr ""
+msgstr "Fuseau horaire Min."
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:254 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Time Zone Max."
-msgstr ""
+msgstr "Time Zone Max ."
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CountrySetup-generated.cs:1878 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid ""
 "--> The value you entered has been changed back to what it was before! <--"
 msgstr ""
+"-> La valeur saisie a été modifié pour revenir à ce qu'elle était avant ! <-"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:154 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Currency Code"
-msgstr ""
+msgstr "Code de devise"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:155 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Currency Name"
-msgstr ""
+msgstr "Nom de la devise"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:156 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Currency Symbol"
-msgstr ""
+msgstr "Symbole de la monnaie"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:158 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Display Format"
-msgstr ""
+msgstr "Format d'affichage"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:184
 msgid "Currency List"
-msgstr ""
+msgstr "Liste des devises"
 
 #: csharp\ICT\Petra\Client\MCommon\Gui\Setup\CurrencySetup-generated.cs:197 (first of several occurrences - the whole list can be found in i8n/template.pot.withallsources)
 msgid "Enter a currency code"
